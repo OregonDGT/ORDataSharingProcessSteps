@@ -5,7 +5,7 @@ permalink: /implement/
 ---
 ## Play 03. Implement: plan & strategy
 
-This play will help Departments move from conversation to action. It will provide resources that will allow the Departments to succeed. This might include: roles and responsibilities; governance structures; and data standards.
+play will help Departments move from conversation to action. It will provide resources that will allow the Departments to succeed. This might include: roles and responsibilities; governance structures; and data standards.
 
 This play includes resources on project management and change management to help both staff implement and leadership enforce the importance of this work.
 
