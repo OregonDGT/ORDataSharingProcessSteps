@@ -8,7 +8,7 @@ The '0-5' process steps provide a structured framework for data sharing, guiding
 #### Data Sharing Playbook Resources
 The <a href="https://sites.google.com/georgetown.edu/data-labs-playbook/define-the-data-challenge?authuser=0">Data Labs Playbook</a> and the <a href="https://chhsdata.github.io/dataplaybook">CHHS Data Playbook</a> are valuable resources for agencies navigating the six-step data-sharing process. These playbooks provide practical guidance, templates, and best practices to help define data challenges, scope use cases, and eneffective collaboration. Agencies can use these tools to align their efforts with the structured framework, enhancing clarity and efficiency at every stage.
 
-## Oregon Data Sharing Playbook Contents
+## Oregon Data Sharing Process Steps 
 
 ### [Five plays for your department](index.md)
 
