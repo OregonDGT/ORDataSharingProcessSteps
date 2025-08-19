@@ -12,7 +12,7 @@ The <a href="https://sites.google.com/georgetown.edu/data-labs-playbook/define-t
 
 ### [Five plays for your department](index.md)
 
-### [01. Define: goals & objectives](0_understand.md)
+### [0. Understand](0_understand.md)
 
 ### [02. Assess: tools & capabilities](2_assess.md)
 
