@@ -3,7 +3,7 @@ layout: page
 title: 0. Understand
 permalink: /understand/
 ---
-## Step/Phase 01. Understand
+## Step/Phase 0: Understand
 
 This play is focused on helping Departments facilitate a high-level conversation on some of the most pressing issues facing the Department and what data solutions might be available to address the issue or problem. 
 
