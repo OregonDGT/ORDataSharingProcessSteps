@@ -1,7 +1,7 @@
 ---
 layout: page
-title: 3. Implement
-permalink: /implement/
+title: 2. Develop Use Case
+permalink: /develop/
 ---
 ## Play 03. Implement: plan & strategy
 
