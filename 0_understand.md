@@ -55,9 +55,7 @@ permalink: /understand/
 1. Completed data inventory template.
 2. Identification of regulated data and associated responsibilities. 
 
-100. First list item
-     - First nested list item
-       - Second nested list item
+___
          
 [![Action Item]({{ site.baseurl }}/assets/images/01_figure02.png "Action Item")
 ]({{ site.baseurl }}/action_items)
@@ -69,3 +67,6 @@ permalink: /understand/
   <a class="pagination-item older" href="{{ site.baseurl }}/">&laquo; Prev</a>
   <a class="pagination-item newer" href="{{ site.baseurl }}/assess">Next &raquo;</a>
 </div>
+100. First list item
+     - First nested list item
+       - Second nested list item
