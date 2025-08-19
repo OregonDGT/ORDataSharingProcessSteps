@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 1. Define
+title: 0. Understand
 permalink: /understand/
 ---
 ## Step/Phase 01. Understand
