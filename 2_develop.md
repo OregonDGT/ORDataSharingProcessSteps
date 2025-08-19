@@ -3,7 +3,7 @@ layout: page
 title: 2. Develop Use Case
 permalink: /develop/
 ---
-## Play 03. Implement: plan & strategy
+## 02. Develop Use Case
 
 This play will help Departments move from conversation to action. It will provide resources that will allow the Departments to succeed. This might include: roles and responsibilities; governance structures; and data standards.
 
