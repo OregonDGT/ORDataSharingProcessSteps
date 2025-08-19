@@ -5,7 +5,7 @@ permalink: /understand/
 ---
 ## Step/Phase 0: Understand
 
-This play is focused on helping Departments facilitate a high-level conversation on some of the most pressing issues facing the Department and what data solutions might be available to address the issue or problem. 
+Agencies establish baseline awareness of their own data and programs to understand what they collect and do not collect, identify ongoing programmatic needs, and pain points.  
 
 The objective is to get staff to think about how and what we can do to improve the programs we administer. We want to help change the way we think about the programs we work on–not only about how we administer the programs day-to-day, but how do we make them better, more efficient and more effective.
 
