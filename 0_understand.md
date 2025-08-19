@@ -9,10 +9,6 @@ permalink: /understand/
 > [!TIP]
 > Agencies establish baseline awareness of their own data and programs to understand what they collect and do not collect, identify ongoing programmatic needs, and pain points.  
 
-100. First list item
-     - First nested list item
-       - Second nested list item
-         
 #### Guidance needed:  
 
 1. Definition on what baseline awareness or maturity is, some level of program or data inventory so agency knows what data they collect. 
@@ -59,7 +55,10 @@ permalink: /understand/
 1. Completed data inventory template.
 2. Identification of regulated data and associated responsibilities. 
 
-
+100. First list item
+     - First nested list item
+       - Second nested list item
+         
 [![Action Item]({{ site.baseurl }}/assets/images/01_figure02.png "Action Item")
 ]({{ site.baseurl }}/action_items)
 
