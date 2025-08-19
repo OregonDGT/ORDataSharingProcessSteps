@@ -51,7 +51,7 @@ permalink: /understand/
 3. Data Quality Guide for Govt
      - A folder containing a guide and resource to help determine data quality (specific to government) 
 
-### Deliverables- at the end of the step an agency should have completed the following:   
+#### Deliverables- at the end of the step an agency should have completed the following:   
 1. Completed data inventory template.
 2. Identification of regulated data and associated responsibilities. 
 
