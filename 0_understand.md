@@ -26,15 +26,14 @@ permalink: /understand/
 5. Agencies have identified roles and responsibilities related to data sharing and data sharing use case review and approval. 
 6. Agencies have completed the executing the MOU [link to resources].   
 
-### Core activities for phasestep 0: 
-
+#### Core activities for Step/Phase 0: 
 1. Evaluate existing data related to potential use cases
 2. Determine what data is and isn’t collected currently (this is critical- data that isn’t currently collected will be much harder to fold into a use case)
 3. Identify internal SMEs for potential use cases, including data users, program leaders, and key partners
 4. Fill out data inventory template; engage DGT facilitator to assist 
 
-### Templates/Resources 
-DGT Resources
+#### Templates/Resources 
+##### DGT Resources
 1. Program and Data Inventory Template
      - Excel book for tracking programs and datasets 
 3. Oregon Agency Data Inventory Template 
@@ -46,17 +45,17 @@ DGT Resources
     - Information Governance Council Charter_Signed_anonymous.pdf 
 7. Data Dictionary Template 
 
-State Agency Resources 
+##### State Agency Resources 
 1. ODOT Data Value Mapping Template 2016.pptx and instructions
      - Used for developing shared understanding of how data is used and moves through your organization 
-External Resources 
+##### External Resources 
 1. High Value Data Asset Inventory
 2. Beeck Center - Sharing Data for Social Impact Guidebook for Establishing Responsible Governance
      - How-to guide for establishing governance practices for your data 
 3. Data Quality Guide for Govt
      - A folder containing a guide and resource to help determine data quality (specific to government) 
 
-Deliverables- at the end of the step an agency should have completed the following:   
+### Deliverables- at the end of the step an agency should have completed the following:   
 1. Completed data inventory template.
 2. Identification of regulated data and associated responsibilities. 
 
