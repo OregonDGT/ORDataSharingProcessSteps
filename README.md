@@ -1,7 +1,8 @@
 # Oregon Data Sharing Process & Artifacts
 
 This document outlines Oregon’s Data Sharing Process and associated artifacts, providing a streamlined guide for implementing an enterprise-level Memorandum of Understanding (MOU). With step-by-step instructions, templates, and resources, it supports agencies in identifying, defining, and executing secure and compliant data-sharing use cases to enhance public services and collaboration statewide.  
-<img width="624" height="75" alt="ORDataShare" src="https://github.com/user-attachments/assets/c5291b14-fec5-45b2-86d7-d3947ae32528" />
+
+<img width="724" height="175" alt="ORDataShare" src="https://github.com/user-attachments/assets/c5291b14-fec5-45b2-86d7-d3947ae32528" />
 
 #### Six Step Pilot Data Sharing Process: 0-5
 The '0-5' process steps provide a structured framework for data sharing, guiding agencies from understanding their data landscape (Step 0) to executing and refining data-sharing use cases (Step 5). Each step includes key activities, dependencies, and resources to ensure a secure, compliant, and effective approach to inter-agency collaboration. <i> For the pilot project, Data Governance and Transparency (DGT) will be providing resources, facilitators, and observers to support and refine the use of this data sharing process and associated resources</i>. 
