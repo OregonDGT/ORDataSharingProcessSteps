@@ -1,9 +1,9 @@
 ---
 layout: page
-title: 2. Assess
-permalink: /assess/
+title: 1. Define Use Case
+permalink: /define/
 ---
-## Play 02. Assess: tools & capabilities
+## 01. Define Use Case
 
 This play focuses on assessing a Department’s current assets and capabilities—including technology and human resources–to leverage their data to help formulate program or policy solutions. The goal is to look at existing capabilities to address the problems or issues.
 
