@@ -12,8 +12,6 @@ The <a href="https://sites.google.com/georgetown.edu/data-labs-playbook/define-t
 
 ## Oregon Data Sharing Process Steps 
 
-### [Five plays for your department](index.md)
-
 ### [0. Understand](0_understand.md)
 
 ### [01. Define Use Case](1_define.md)
@@ -28,6 +26,7 @@ The <a href="https://sites.google.com/georgetown.edu/data-labs-playbook/define-t
 
 ### [Resource Library](7_resource_library.md)
 
+### [Five plays for your department](index.md)
 
 ## Change Log
 
