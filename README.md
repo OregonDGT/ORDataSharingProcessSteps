@@ -16,7 +16,7 @@ The <a href="https://sites.google.com/georgetown.edu/data-labs-playbook/define-t
 
 ### [01. Define Use Case](1_define.md)
 
-### [03. Implement: plan & strategy](3_implement.md)
+### [02. Develop Use Case](2_develop.md)
 
 ### [04. Evaluate: outcomes & impact](4_evaluate.md)
 
