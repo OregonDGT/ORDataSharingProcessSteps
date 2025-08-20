@@ -29,7 +29,7 @@ permalink: /understand/
 4. Fill out data inventory template; engage DGT facilitator to assist 
 
 #### Templates/Resources 
-##### DGT Resources
+##### DGT Resources (Internal)
 1. Program and Data Inventory Template
      - Excel book for tracking programs and datasets 
 3. Oregon Agency Data Inventory Template 
@@ -46,10 +46,10 @@ permalink: /understand/
      - Used for developing shared understanding of how data is used and moves through your organization 
 
 ##### External Resources
-1. High Value Data Asset Inventory
-2. Beeck Center - Sharing Data for Social Impact Guidebook for Establishing Responsible Governance
+1. <a href="https://stateoforegon.sharepoint.com/:x:/r/sites/DAS-EIS-DGT/Shared%20Documents/eMOU%20Project%20Planning/Pilot%20Scoping%20and%20Execution/Templates/0%20-%20Understand/High%20Value%20Data%20Asset%20Inventory_2024.xlsx?d=w8c0aea2ef05c49129919174d6053522f&csf=1&web=1&e=gRKdNi)">High Value Data Asset Inventory</a>
+2. <a href="https://beeckcenter.georgetown.edu/wp-content/uploads/2020/01/Data-Sharing-Summary.pdf">Beeck Center - Sharing Data for Social Impact Guidebook for Establishing Responsible Governance</a>
      - How-to guide for establishing governance practices for your data 
-3. Data Quality Guide for Govt
+3. <a href="https://stateoforegon.sharepoint.com/:f:/r/sites/DAS-EIS-DGT/Shared%20Documents/eMOU%20Project%20Planning/Pilot%20Scoping%20and%20Execution/Templates/0%20-%20Understand/Templates%20-%20DQ%20Guide%20for%20Government?csf=1&web=1&e=pmIXta">Data Quality Guide for Govt</a>
      - A folder containing a guide and resource to help determine data quality (specific to government) 
 
 #### Deliverables- at the end of the step an agency should have completed the following:   
