@@ -20,7 +20,7 @@ The <a href="https://sites.google.com/georgetown.edu/data-labs-playbook/define-t
 
 ### [03. Review Use Case](3_review.md)
 
-### [05. Share: progress & results](5_share.md)
+### [04. Approve Use Case (or Dispute)](4_approve.md)
 
 ### [Action Items](6_action_items.md)
 
