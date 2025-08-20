@@ -1,9 +1,9 @@
 ---
 layout: page
-title: 5. Share
-permalink: /share/
+title: 4. Approve Use Case (or Dispute)
+permalink: /approve/
 ---
-## Play 05. Share: progress & results
+## 05. Approve Use Case (or Dispute)
 
 It will be important to recognize that we will have successes and failures and it will be equally important to communicate our failures as much as our successes in order for us to learn from both. 
 
