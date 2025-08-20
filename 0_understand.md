@@ -10,12 +10,11 @@ permalink: /understand/
 > [!TIP]
 > Agencies establish baseline awareness of their own data and programs to understand what they collect and do not collect, identify ongoing programmatic needs, and pain points.  
 
-#### Guidance needed:  
+#### Guidance Needed:  
 
 1. Definition on what baseline awareness or maturity is, some level of program or data inventory so agency knows what data they collect. 
 
-#### Dependencies/Assumptions: 
-
+#### Dependencies/Assumptions
 1. Agencies have a Lead Data Steward or other identified party responsible for agency data inventory completion.
 2. Agencies have completed an initial data inventory or are actively developing one.
 3. Agencies have data dictionaries to help them understand the data that’s intended to be shared and used. 
@@ -23,7 +22,7 @@ permalink: /understand/
 5. Agencies have identified roles and responsibilities related to data sharing and data sharing use case review and approval. 
 6. Agencies have completed the executing the MOU [link to resources].   
 
-#### Core activities for Step/Phase 0: 
+#### Core Activities for Step/Phase 0
 1. Evaluate existing data related to potential use cases
 2. Determine what data is and isn’t collected currently (this is critical- data that isn’t currently collected will be much harder to fold into a use case)
 3. Identify internal SMEs for potential use cases, including data users, program leaders, and key partners
@@ -42,10 +41,11 @@ permalink: /understand/
     - Information Governance Council Charter_Signed_anonymous.pdf 
 7. Data Dictionary Template 
 
-##### State Agency Resources 
+##### State Agency Resources
 1. ODOT Data Value Mapping Template 2016.pptx and instructions
      - Used for developing shared understanding of how data is used and moves through your organization 
-##### External Resources 
+
+##### External Resources
 1. High Value Data Asset Inventory
 2. Beeck Center - Sharing Data for Social Impact Guidebook for Establishing Responsible Governance
      - How-to guide for establishing governance practices for your data 
