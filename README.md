@@ -18,7 +18,7 @@ The <a href="https://sites.google.com/georgetown.edu/data-labs-playbook/define-t
 
 ### [02. Develop Use Case](2_develop.md)
 
-### [04. Evaluate: outcomes & impact](4_evaluate.md)
+### [03. Review Use Case](3_review.md)
 
 ### [05. Share: progress & results](5_share.md)
 
