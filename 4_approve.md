@@ -3,7 +3,7 @@ layout: page
 title: 4. Approve Use Case (or Dispute)
 permalink: /approve/
 ---
-## 05. Approve Use Case (or Dispute)
+## 04. Approve Use Case (or Dispute)
 
 It will be important to recognize that we will have successes and failures and it will be equally important to communicate our failures as much as our successes in order for us to learn from both. 
 
