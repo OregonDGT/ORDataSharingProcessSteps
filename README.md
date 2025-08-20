@@ -22,6 +22,8 @@ The <a href="https://sites.google.com/georgetown.edu/data-labs-playbook/define-t
 
 ### [04. Approve Use Case (or Dispute)](4_approve.md)
 
+### [05. Execute](4_execute.md)
+
 ### [Action Items](6_action_items.md)
 
 ### [Resource Library](7_resource_library.md)
