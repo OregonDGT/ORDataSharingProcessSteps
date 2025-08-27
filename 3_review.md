@@ -1,9 +1,9 @@
 ---
 layout: page
-title: 2. Develop Use Case
-permalink: /develop/
+title: 3. Develop Use Case
+permalink: /review/
 ---
-## Step/Phase 2: Review Use Case
+## Step/Phase 3: Review Use Case
 <img width="386" height="284" alt="github-steps" src="https://github.com/user-attachments/assets/c5a65f40-62e4-456b-897f-510ca7b36936" />
 
 ### Review
@@ -21,7 +21,7 @@ permalink: /develop/
 5. Use Case Template has appropriate fields for agency reviewers to respond to/address data sharing concerns within a use case
      - Examples: known risks, legal authority, possible alternatives, each agency’s position on the sharing (pro and con or summary of discussions/attempts to get to “yes”)
 
-#### Core Activities for Step/Phase 2
+#### Core Activities for Step/Phase 3
 1. Engage in review process necessary for validating and refining Business Use Case Proposal
 2. Collaborate with agency partners to determine gaps or changes that need to occur in the Use Case
 3. Evaluate scope and application of Business Use Case Proposal
