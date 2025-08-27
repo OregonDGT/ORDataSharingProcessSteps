@@ -3,42 +3,40 @@ layout: page
 title: 5. Execute Use Case
 permalink: /execute/
 ---
-## 05. Execute Use Case
+## Step/Phase 5: Execute Use Case
+<img width="286" height="184" alt="github-steps" src="https://github.com/user-attachments/assets/c5a65f40-62e4-456b-897f-510ca7b36936" />
 
-It will be important to recognize that we will have successes and failures and it will be equally important to communicate our failures as much as our successes in order for us to learn from both. 
+### Execute
+> [!TIP]
+> Agencies execute use case according to the proposal.
+> 
+#### Guidance Needed:  
 
-![How do you share progress?]({{ site.baseurl }}/assets/images/05_figure03.png "How do you share progress?")
+1. For Pilot, agencies will have a prescribed suggested output that we are intending to guide them to. For ongoing implementation, this section should be considered part of a living document/playbook to help guide agencies.
 
-**Storyboard** – Create a data story to share the results of your data project. Think about how your data analysis contributes to your Department or program missions and goals.  Create or leverage a Department mailing list to get the word out.
+#### Dependencies/Assumptions
+1. Agencies have completed appropriate solution analysis in Steps 1-3 and have identified any outputs, deliverables, or overall outcomes from their specific use case.
 
-The [MIT Center for Civic Media developed a guide](https://datatherapy.org/activities/activity-finding-a-story-in-data/){:target="_blank"} for finding and creating various types of data stories: connection, comparison, change, persona, and factoid stories. [Access the "finding a story" worksheet](https://datatherapy.files.wordpress.com/2014/07/finding-a-story-worksheets-v1-1.pdf){:target="_blank"}.
+#### Core Activities for Step/Phase 5
+1. If necessary, review use case and determine new scope based on feedback from previous steps
+2. Develop a plan for implementation (currently no template or articulated process for DGT- will be part of development for the next project)
+3. Notify all stakeholders of intent to execute and timelines for execution
 
-**Meetings and Showcases** – Don’t underestimate the power of leveraging the people network. Organize a “data showcase” for your team, or participate in one of emerging across the Agency. Use these events to build a shared understanding of data, celebrate successes, and learn from your peers.
-
->**How do we share lessons learned and create a feedback loop?**
-
-[![Storyboard]({{ site.baseurl }}/assets/images/05_figure02.png "Storyboard")](https://letsgethealthy.ca.gov/)
-
-**Documentation** – The completion of an “Information Architecture Assessment” provides standard documentation about the characteristics, linkages, and dependencies of all the relevant data for each use case.
-
-There’s an opportunity to use this documentation to build a repository of Agency data assets that captures the Agency’s “Information Architecture” for the most critical and valuable Agency data assets. Consider how the creation, maintenance, and sharing of such documentation can add to a greater Agency repository of resources.
-
-[![Action Item]({{ site.baseurl }}/assets/images/05_figure01.png "Action Item")]({{ site.baseurl }}/action_items)
-
-**Data Publication and Presentation** – Your Department or program may have an established visual and brand style that can provide greater credibility to your data analysis. Aspects such as color, font face, and citation format can add consistency.
-
-**Consider the Audience** – Consider the audience for the message of your data story. Is the audience the general public, a program manager, or a technician? What is their degree of data literacy?
-
-Many think of data in terms of large reports with many charts and graphs, but we can’t expect all audiences to digest long reports. It’s better to offer increasingly deeper levels of detail. For example, lead with an impactful figure or statistics to entice the reader. Then, offer a single graph or short fact sheet with more detail. You can further link the audience to a full report or interactive visualization.
-
-Use a text analyzer tool, such as [the Hemingway Editor App](http://www.hemingwayapp.com/){:target="_blank"}, to ensure your narrative is impactful, clear, and tailored for your audience. Be sure to also consider your product’s accessibility to a wide array of users.
-
-[![CHHS Governance Resources]({{ site.baseurl }}/assets/images/05_figure04.png "CHHS Governance Resources")]({{ site.baseurl }}/resource_library)
-
-Check out the examples of CHHS data-driven success in the [Success Stories section]({{ site.baseurl }}/success_stories/).
-
+#### Templates/Resources
+1. DGT Resources
+     - Execute Use Case Recommendations 
+       - Detailed guide for how to execute the use case for a variety of roles
+     - State Agency Resources
+       - ODE Houseless Student Data Briefs, Understanding Student Houselessness Data Brief
+         - Examples of use case write-ups and report-outs
+     - External Resources
+       - Data Labs Agile Rapid Prototyping
+        - Process for quickly determining viability of prototype solutions or approaches for use cases
+#### Deliverables- at the end of the step an agency should have completed the following:
+1. i.	Implemented use case outputs.
+   
 <!-- Pagination -->
 <div class="pagination">
-  <a class="pagination-item older" href="{{ site.baseurl }}/evaluate">&laquo; Prev</a>
-  <a class="pagination-item newer" href="{{ site.baseurl }}/action_items">Next &raquo;</a>
+  <a class="pagination-item older" href="{{ site.baseurl }}/define">&laquo; Prev</a>
+  <a class="pagination-item newer" href="{{ site.baseurl }}/implement">Next &raquo;</a>
 </div>
