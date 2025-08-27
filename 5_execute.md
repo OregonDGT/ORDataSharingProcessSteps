@@ -4,7 +4,7 @@ title: 5. Execute Use Case
 permalink: /execute/
 ---
 ## Step/Phase 5: Execute Use Case
-<img width="286" height="184" alt="github-steps" src="https://github.com/user-attachments/assets/c5a65f40-62e4-456b-897f-510ca7b36936" />
+<img width="386" height="284" alt="github-steps" src="https://github.com/user-attachments/assets/c5a65f40-62e4-456b-897f-510ca7b36936" />
 
 ### Execute
 > [!TIP]
