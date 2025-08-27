@@ -4,7 +4,7 @@ title: 2. Develop Use Case
 permalink: /develop/
 ---
 ## Step/Phase 2: Develop Use Case Proposal
-<img width="286" height="184" alt="github-steps" src="https://github.com/user-attachments/assets/c5a65f40-62e4-456b-897f-510ca7b36936" />
+<img width="386" height="284" alt="github-steps" src="https://github.com/user-attachments/assets/c5a65f40-62e4-456b-897f-510ca7b36936" />
 
 ### Develop
 > [!TIP]
@@ -17,7 +17,7 @@ permalink: /develop/
 1. Agencies have the tools needed to successfully engage each other to discuss use cases: perform initial outreach, share a proposed use case, facilitate discussion/feedback and scoping
 2. Agencies who sign the MOU are committing to “getting to yes” when scoping use cases, or to clearly documenting why a use case should not move forward [legal, ethical, good idea].
 
-#### Core Activities for Step/Phase 0
+#### Core Activities for Step/Phase 2
 1. Fill out the Business Use Case Proposal Template (with assistance from DGT resource)
 2. Hold sessions to refine the use case from step 1 into a workable Business Use Case Proposal; goal is to have something that is technically executable
  
