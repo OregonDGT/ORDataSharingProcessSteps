@@ -1,31 +1,60 @@
 ---
 layout: page
-title: 3. Review Use Case
-permalink: /review/
+title: 2. Develop Use Case
+permalink: /develop/
 ---
-## 03. Review Use Case
+## Step/Phase 2: Review Use Case
+<img width="286" height="184" alt="github-steps" src="https://github.com/user-attachments/assets/c5a65f40-62e4-456b-897f-510ca7b36936" />
 
-This is an important play as it will help us validate outcomes and determine successes. It also will help  identify lessons learned, which will grow our toolbox and provide us with better intelligence. This ultimately will allow us to generate new content and additional best practices to help other Departments across the Agency.
+### Review
+> [!TIP]
+> Receiving agency review and work with submitting agency to refine, review, and respond to use case request
 
->**“Driving towards continuous 
-process improvement.”**
+#### Guidance Needed:  
+1. Template/draft process flow for receiving and reviewing request or a decision tree on the use case review process.
+   
+#### Dependencies/Assumptions
+1. Agencies have identified a process by which they will receive, review, and respond to data sharing requests [0. Understand]
+2. Agencies understand the releasability of their data and are committed to negotiating and scoping with agencies to address requests and respond as needed
+3. Agencies have, or are in the process of developing, de-identification, aggregation, or other guidelines that are compliant with their specific regulatory requirements
+4. Agencies have appropriate guidance to scope use cases, kick off use case scoping with agency partners, and are able to appropriately adjust, refine, and scope their use cases with the goal of getting to a successful use case that meets framework criteria (legal, ethical, good idea)
+5. Use Case Template has appropriate fields for agency reviewers to respond to/address data sharing concerns within a use case
+     - Examples: known risks, legal authority, possible alternatives, each agency’s position on the sharing (pro and con or summary of discussions/attempts to get to “yes”)
 
-**Process Evaluations** – assess the processes involved in organizing and/or implementing the project. The focus here is on evaluating organizational and project capabilities rather than results.
+#### Core Activities for Step/Phase 0
+1. Engage in review process necessary for validating and refining Business Use Case Proposal
+2. Collaborate with agency partners to determine gaps or changes that need to occur in the Use Case
+3. Evaluate scope and application of Business Use Case Proposal
 
-**Impact Evaluations** – assess short term objectives, which suggest that your larger goals are being achieved. Impact evaluations are much easier to measure because they consider benefits in terms of changes in beliefs and attitudes, skills, behavior and/or policies, structures and systems.
+#### Templates/Resources
+1. DGT Resources
+     - Draft Agency Use Case Review Recommendations
+        - Key elements for reviewing a Use Case
+     - Privacy Guidance for Open Data
+        - Privacy-specific guidelines for datasets with protected information
+    - State Agency Resources
+        - ISPO-DHS-OHA Deidentification Policy
+            - DHS Policy referencing the need to deidentify data to protect privacy
+#### External Resources             
+1. CA IDEA Email Template to Initiate Data Sharing Request
+     - Communication template for interagency use
+2. CA IDEA Templates for Planning a Use Case Kickoff Mtg
+     - Agenda template for initial meeting
+3. Creating Space for Solution Mapping
+     - Blog about identifying value of solutions and picking the right one
+4. Data Labs Tech Tools Worksheet 
+     - Inventorying and utilizing technology tools
+5. AISP Intro to Data Sharing and Integration
+     - Basic information related to sharing and integrating data
+6. US HHS Deidentification Guide for HIPAA
+     - Cal HHS Deidentification Guide
 
-**Outcome Evaluations** – assess how effective you have been in meeting big picture goals. The difficulties associated with outcome evaluations include: attributing change to any one particular project; long periods between the project and being able to see change; and finding reliable and valid ways of gathering this type of information.
-
-![How do you measure success?]({{ site.baseurl }}/assets/images/04_figure01.png "How do you measure success?")
-
-Establishing an evaluation process will ensure that the benefits anticipated by the implementation of any particular program or policy change are realized and an assessment can be made of the project’s overall success.
-
->**What are the lessons learned?** How will you iterate on the current solution? What are the next steps?
-
-[![Action Item]({{ site.baseurl }}/assets/images/04_figure02.png "Action Item")]({{ site.baseurl }}/action_items)
+#### Deliverables- at the end of the step an agency should have completed the following:
+1. Documented review feedback.
+2. Consensus on use case scope.
 
 <!-- Pagination -->
 <div class="pagination">
-  <a class="pagination-item older" href="{{ site.baseurl }}/implement">&laquo; Prev</a>
-  <a class="pagination-item newer" href="{{ site.baseurl }}/share">Next &raquo;</a>
+  <a class="pagination-item older" href="{{ site.baseurl }}/define">&laquo; Prev</a>
+  <a class="pagination-item newer" href="{{ site.baseurl }}/implement">Next &raquo;</a>
 </div>
