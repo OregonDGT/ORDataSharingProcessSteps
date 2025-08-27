@@ -4,7 +4,7 @@ title: 4. Approve Use Case (or Dispute)
 permalink: /approve/
 ---
 ## Step/Phase 4: Approve Use Case (or Dispute)
-<img width="286" height="184" alt="github-steps" src="https://github.com/user-attachments/assets/c5a65f40-62e4-456b-897f-510ca7b36936" />
+<img width="386" height="284" alt="github-steps" src="https://github.com/user-attachments/assets/c5a65f40-62e4-456b-897f-510ca7b36936" />
 
 ### Approve
 > [!TIP]
