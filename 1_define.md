@@ -3,7 +3,7 @@ layout: page
 title: 1. Define Use Case
 permalink: /define/
 ---
-## 01. Define Use Case
+## Step/Phase 01: Define Use Case
 
 <img width="286" height="184" alt="github-steps" src="https://github.com/user-attachments/assets/c5a65f40-62e4-456b-897f-510ca7b36936" />
 
@@ -11,33 +11,27 @@ permalink: /define/
 > [!TIP]
 > Agency identifies need and develops a proposed use case for data sharing.
 
-Guidance needed:  
+#### Guidance needed:  
 
-Support on scoping, identifying, and evaluating potential use cases for data sharing 
+1. Support on scoping, identifying, and evaluating potential use cases for data sharing 
 
-Dependencies/Assumptions: 
+#### Dependencies/Assumptions: 
 
-Agencies have done program evaluation or use case scoping and have an identified need/challenge that data sharing can effectively address [0. Understand] 
+1. Agencies have done program evaluation or use case scoping and have an identified need/challenge that data sharing can effectively address [0. Understand] 
+2. Agencies have baseline awareness of their own data collections and program data collection via a data inventory, catalog, or other governance mechanism [0. Understand] 
+3. Agencies have means to access/understand data being collected by other agencies to identify potential data sharing use cases across programs  
 
-Agencies have baseline awareness of their own data collections and program data collection via a data inventory, catalog, or other governance mechanism [0. Understand] 
+#### Core Activities for PhaseStep 1: 
 
-Agencies have means to access/understand data being collected by other agencies to identify potential data sharing use cases across programs  
+1. Identify one or more agency needs that can be solved using cross-agency data sharing
+2. Outline specifics of what data will be used and for what purpose
+3. Develop list of partners and expected roles and responsibilities for accomplishing the use case
+4. Document the key information necessary to develop a use case proposal
+5. Determine specific need and construct a business case to articulate how this data use case will address this need 
 
-Core Activities for PhaseStep 1: 
+#### Templates/Resources: 
 
-Identify one or more agency needs that can be solved using cross-agency data sharing 
-
-Outline specifics of what data will be used and for what purpose 
-
-Develop list of partners and expected roles and responsibilities for accomplishing the use case 
-
-Document the key information necessary to develop a use case proposal 
-
-Determine specific need and construct a business case to articulate how this data use case will address this need 
-
-Templates/Resources: 
-
-DGT Resources 
+1. DGT Resources 
 
 Open Data Coordinator Handbook - Prioritizing Data (can be modified for agencies to evaluate data needs) 
 
