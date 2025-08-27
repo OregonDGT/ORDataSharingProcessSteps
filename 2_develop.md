@@ -31,7 +31,7 @@ permalink: /develop/
      - Data Labs Audit Worksheet https://stateoforegon.sharepoint.com/:x:/r/sites/DAS-EIS-DGT/Shared Documents/eMOU Project Planning/Pilot Scoping and Execution/Templates/2 - Develop Use Case/Data Audit Worksheet.xlsx?d=wb3cb30fb02344981a284aed683ee15dc&csf=1&web=1&e=dwBuTW
      - Data Labs Field Level Mapping Template  https://stateoforegon.sharepoint.com/:x:/r/sites/DAS-EIS-DGT/Shared Documents/eMOU Project Planning/Pilot Scoping and Execution/Templates/2 - Develop Use Case/Data Labs Field-Level Mapping Template.xlsx
      - e.	Deliverables- at the end of the step an agency should have completed the following:
-        -  i.	Finalized Draft Use Case Proposal.
+        -  Finalized Draft Use Case Proposal.
 <!-- Pagination -->
 <div class="pagination">
   <a class="pagination-item older" href="{{ site.baseurl }}/define">&laquo; Prev</a>
