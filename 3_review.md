@@ -28,12 +28,12 @@ permalink: /review/
 
 #### Templates/Resources
 1. DGT Resources
-     - Draft Agency Use Case Review Recommendations
+     - [Draft Agency Use Case Review Recommendations.docx](https://github.com/user-attachments/files/22033805/Draft.Agency.Use.Case.Review.Recommendations.docx)
         - Key elements for reviewing a Use Case
-     - Privacy Guidance for Open Data
+     - <a href="https://data.oregon.gov/Administrative/Open-Data-Guidance-Privacy-for-Open-Datasets/5zxz-jzpm/about_data">Privacy Guidance for Open Data</a>
         - Privacy-specific guidelines for datasets with protected information
     - State Agency Resources
-        - ISPO-DHS-OHA Deidentification Policy
+        - <a href="https://sharedsystems.dhsoha.state.or.us/DHSForms/Served/me100-011.pdf">ISPO-DHS-OHA Deidentification Policy</a>
             - DHS Policy referencing the need to deidentify data to protect privacy
 #### External Resources             
 1. CA IDEA Email Template to Initiate Data Sharing Request
