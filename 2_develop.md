@@ -23,15 +23,16 @@ permalink: /develop/
  
 #### Templates/Resources
 1. DGT Resources
-     - Oregon Business Use Case Proposal Template (required use) https://stateoforegon.sharepoint.com/:w:/r/sites/DAS-EIS-DataGovernanceandTransparency-EnterpriseMOUProjectPlanning/Shared Documents/Pilot Scoping and Execution/Templates/2 - Develop Use Case/Cal HHS Business Use Case Proposal Template.docx?d=w3799e8b632254767b39dfe27d7057503&csf=1&web=1&e=vUJcal
+     - [Oregon Business Use Case Proposal Template (1).docx](https://github.com/user-attachments/files/22033664/Oregon.Business.Use.Case.Proposal.Template.1.docx)
         - Critical template necessary to move to the next step; documents all information needed to complete your use case proposal
 2. External Resources
-     - Cal HHS Business Use Case Proposal Template and Instructions
+     - [Cal HHS Business Use Case Proposal Template.docx](https://github.com/user-attachments/files/22033748/Cal.HHS.Business.Use.Case.Proposal.Template.docx) and [Cal HHS Business Use Case Proposal Instructions.pdf](https://github.com/user-attachments/files/22033750/Cal.HHS.Business.Use.Case.Proposal.Instructions.pdf)
         - Another organization’s approach to documenting use case proposals
-     - Data Labs Audit Worksheet https://stateoforegon.sharepoint.com/:x:/r/sites/DAS-EIS-DGT/Shared Documents/eMOU Project Planning/Pilot Scoping and Execution/Templates/2 - Develop Use Case/Data Audit Worksheet.xlsx?d=wb3cb30fb02344981a284aed683ee15dc&csf=1&web=1&e=dwBuTW
-     - Data Labs Field Level Mapping Template  https://stateoforegon.sharepoint.com/:x:/r/sites/DAS-EIS-DGT/Shared Documents/eMOU Project Planning/Pilot Scoping and Execution/Templates/2 - Develop Use Case/Data Labs Field-Level Mapping Template.xlsx
-     - e.	Deliverables- at the end of the step an agency should have completed the following:
-        -  Finalized Draft Use Case Proposal.
+     - [Data Audit Worksheet.xlsx](https://github.com/user-attachments/files/22033757/Data.Audit.Worksheet.xlsx)
+     - [Data Labs Field-Level Mapping Template.xlsx](https://github.com/user-attachments/files/22033772/Data.Labs.Field-Level.Mapping.Template.xlsx)    
+#### Deliverables- at the end of the step an agency should have completed the following:
+1. Finalized Draft Use Case Proposal.
+        
 <!-- Pagination -->
 <div class="pagination">
   <a class="pagination-item older" href="{{ site.baseurl }}/define">&laquo; Prev</a>
