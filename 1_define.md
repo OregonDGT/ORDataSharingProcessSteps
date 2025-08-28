@@ -32,31 +32,31 @@ permalink: /define/
 #### Templates/Resources: 
 
 1. DGT Resources 
-     - Open Data Coordinator Handbook - Prioritizing Data (can be modified for agencies to evaluate data needs) 
+     - <a href="https://data.oregon.gov/Administrative/Agency-Data-Coordinator-s-Handbook/p6rj-4fdp/about_data">Open Data Coordinator Handbook - Prioritizing Data</a> (can be modified for agencies to evaluate data needs) 
         - Page 11 for priority data categories 
-     - Oregon Business Use Case Proposal Template (required use) 
+     - [Oregon Business Use Case Proposal Template.docx](https://github.com/user-attachments/files/22032635/Oregon.Business.Use.Case.Proposal.Template.docx)
         - Critical template necessary to move to the next phasestep; documents all information needed to complete your use case proposal 
 2. State Agency Resources 
-     - OLDC Research Project Planning Guide
+     - [Research Study Planning and Development SOP DRAFT.docx](https://github.com/user-attachments/files/22032720/Research.Study.Planning.and.Development.SOP.DRAFT.docx) - OLDC Research Project Planning Guide
         - General project planning resource 
-     - ODOT Research Team Research Cycle 
+     - <a href= "https://www.oregon.gov/odot/programs/pages/research.aspx">ODOT Research Team Research Cycle</a>
         - Set of resources to help understand how research is conducted 
 3. External Resources 
-     - AISP Four Question Framework 
+     - <a href="https://aisp.upenn.edu/resource-article/four-questions-to-guide-decision-making-for-data-sharing-and-integration/">AISP Four Question Framework</a> 
         - Fundamental data management and governance approach 
-     - CalHHS Data Playbook, “Define” 
+     - <a href="https://chhsdata.github.io/dataplaybook/define/">CalHHS Data Playbook, “Define” </a> 
         - Approach to identifying and articulating problems 
-     - Data Labs Playbook: Define the Data Challenge 
+     - Data Labs Playbook: Define the Data Challenge https://sites.google.com/georgetown.edu/data-labs-playbook/define-the-data-challenge?authuser=0
         - Tips and trick for defining your data problems 
-     - Data Science and Public Policy Scoping Guide 
+     - Data Science and Public Policy Scoping Guide http://www.datasciencepublicpolicy.org/our-work/tools-guides/data-science-project-scoping-guide/
         - Defining and analyzing use cases for public-facing projects 
-     - Thoughtfully Analyzing Data Challenges 
+     - Thoughtfully Analyzing Data Challenges https://beeckcenter.georgetown.edu/foundations-of-a-successful-data-project-thoughtfully-analyzing-data-challenges/
         - Blog about defining data problems and needs 
-     - Data Labs Problem Scoping Activity Template 
+     - Data Labs Problem Scoping Activity Template https://stateoforegon.sharepoint.com/:b:/r/sites/DAS-EIS-DGT/Shared Documents/eMOU Project Planning/Pilot Scoping and Execution/Templates/1 - Define Use Case/Problem Scoping Activity (Template).pdf?csf=1&web=1&e=DP6Jph
         - Template for scoping and articulating data problems 
-     - Data Labs Stakeholder Landscape Worksheet 
+     - Data Labs Stakeholder Landscape Worksheet https://stateoforegon.sharepoint.com/:w:/r/sites/DAS-EIS-DGT/Shared Documents/eMOU Project Planning/Pilot Scoping and Execution/Templates/1 - Define Use Case/Stakeholder Mapping Worksheet.docx?d=w4c40e811bc4f4a23a95bba2fbc7024eb&csf=1&web=1&e=FrPDB9
         - Stakeholder environment tool 
-     - Data Labs Stakeholder Mapping Worksheet 
+     - Data Labs Stakeholder Mapping Worksheet https://stateoforegon.sharepoint.com/:w:/r/sites/DAS-EIS-DGT/Shared Documents/eMOU Project Planning/Pilot Scoping and Execution/Templates/1 - Define Use Case/Stakeholder Mapping Worksheet.docx?d=w4c40e811bc4f4a23a95bba2fbc7024eb&csf=1&web=1&e=37M7Wq
         - Stakeholder mapping and identification tool 
 #### Deliverables- at the end of the step an agency should have completed the following:   
 1. Drafted use case outline.
