@@ -30,44 +30,48 @@ permalink: /understand/
 
 #### Templates/Resources 
 ##### DGT Resources (Internal)
-1. Program and Data Inventory Template
+1. [Program and Data Inventory Template.xlsx](https://github.com/user-attachments/files/22031498/Program.and.Data.Inventory.Template.xlsx)
      - Excel book for tracking programs and datasets 
-3. Oregon Agency Data Inventory Template 
-4. Data Coordinator Handbook - Incl. Inventory Instructions
-    - Instructions for completing inventories 
-5. Data Governance Maturity Model
+3. [Oregon Agency Data Inventory Template.xlsx](https://github.com/user-attachments/files/22031541/Oregon.Agency.Data.Inventory.Template.xlsx)
+4. <a href= "https://data.oregon.gov/Administrative/Agency-Data-Coordinator-s-Handbook/p6rj-4fdp/about_data">Data Coordinator Handbook - Incl. Inventory Instructions 
+    - Instructions for completing inventories</a> 
+5. [Data Governance Maturity Model.xlsx](https://github.com/user-attachments/files/22031621/Data.Governance.Maturity.Model.xlsx)
     - Model for evaluating data governance maturity 
 6. Sample Agency Data Governance Committee Charter
-    - Information Governance Council Charter_Signed_anonymous.pdf 
-7. Data Dictionary Template 
+    - [Information Governance Council Charter_Signed_anonymous.pdf](https://github.com/user-attachments/files/22031645/Information.Governance.Council.Charter_Signed_anonymous.pdf)
+7.  [Oregon Agency Data Inventory Template (1).xlsx](https://github.com/user-attachments/files/22031764/Oregon.Agency.Data.Inventory.Template.1.xlsx)
 
 ##### State Agency Resources
-1. ODOT Data Value Mapping Template 2016.pptx and instructions
+1. [ODOT Data Value Mapping Template 2016.pptx](https://github.com/user-attachments/files/22031783/ODOT.Data.Value.Mapping.Template.2016.pptx) and <a href= "https://stateoforegon.sharepoint.com/sites/DAS-EIS-DGT/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FDAS%2DEIS%2DDGT%2FShared%20Documents%2FeMOU%20Project%20Planning%2FPilot%20Scoping%20and%20Execution%2FTemplates%2F0%20%2D%20Understand%2FData%20Value%20Mapping%20Tool%20Guidance%20%28final%29%2Epdf&parent=%2Fsites%2FDAS%2DEIS%2DDGT%2FShared%20Documents%2FeMOU%20Project%20Planning%2FPilot%20Scoping%20and%20Execution%2FTemplates%2F0%20%2D%20Understand">Instructions </a> 
      - Used for developing shared understanding of how data is used and moves through your organization 
 
 ##### External Resources
-1. <a href="https://stateoforegon.sharepoint.com/:x:/r/sites/DAS-EIS-DGT/Shared%20Documents/eMOU%20Project%20Planning/Pilot%20Scoping%20and%20Execution/Templates/0%20-%20Understand/High%20Value%20Data%20Asset%20Inventory_2024.xlsx?d=w8c0aea2ef05c49129919174d6053522f&csf=1&web=1&e=gRKdNi)">High Value Data Asset Inventory</a>
+1. [High Value Data Asset Inventory_2024 (1).xlsx](https://github.com/user-attachments/files/22031945/High.Value.Data.Asset.Inventory_2024.1.xlsx)
 2. <a href="https://beeckcenter.georgetown.edu/wp-content/uploads/2020/01/Data-Sharing-Summary.pdf">Beeck Center - Sharing Data for Social Impact Guidebook for Establishing Responsible Governance</a>
      - How-to guide for establishing governance practices for your data 
-3. <a href="https://stateoforegon.sharepoint.com/:f:/r/sites/DAS-EIS-DGT/Shared%20Documents/eMOU%20Project%20Planning/Pilot%20Scoping%20and%20Execution/Templates/0%20-%20Understand/Templates%20-%20DQ%20Guide%20for%20Government?csf=1&web=1&e=pmIXta">Data Quality Guide for Govt</a>
-     - A folder containing a guide and resource to help determine data quality (specific to government) 
+3. Data Quality Guides for Govt
+     - Files containing guides and resources to help determine data quality (specific to government)
+          - [Capture_Plan.xlsx](https://github.com/user-attachments/files/22031993/Capture_Plan.xlsx)
+          - [Data_Model.xlsx](https://github.com/user-attachments/files/22032018/Data_Model.xlsx)
+          - [dataqualityguideforgovernments.pdf](https://github.com/user-attachments/files/22032023/dataqualityguideforgovernments.pdf)
+          - [Goal_Statement.xlsx](https://github.com/user-attachments/files/22032026/Goal_Statement.xlsx)
+          - [Infrastructure.xlsx](https://github.com/user-attachments/files/22032028/Infrastructure.xlsx)
+          - [Inventory.xlsx](https://github.com/user-attachments/files/22032029/Inventory.xlsx)
+          - [Life_Cycle.xlsx](https://github.com/user-attachments/files/22032030/Life_Cycle.xlsx)
+          - [Reference_Data.xlsx](https://github.com/user-attachments/files/22032031/Reference_Data.xlsx)
+          - [Standards.xlsx](https://github.com/user-attachments/files/22032033/Standards.xlsx)
+          - [Tool_Selection.xlsx](https://github.com/user-attachments/files/22032035/Tool_Selection.xlsx)
+          - [Working_Group.xlsx](https://github.com/user-attachments/files/22032037/Working_Group.xlsx)
 
 #### Deliverables- at the end of the step an agency should have completed the following:   
 1. Completed data inventory template.
 2. Identification of regulated data and associated responsibilities. 
 
 ___
-         
-[![Action Item]({{ site.baseurl }}/assets/images/01_figure02.png "Action Item")
-]({{ site.baseurl }}/action_items)
-
-[![CHHS Governance Resources]({{ site.baseurl }}/assets/images/01_figure04.png "CHHS Governance Resources")]({{ site.baseurl }}/resource_library)
 
 <!-- Pagination -->
 <div class="pagination">
   <a class="pagination-item older" href="{{ site.baseurl }}/">&laquo; Prev</a>
   <a class="pagination-item newer" href="{{ site.baseurl }}/assess">Next &raquo;</a>
 </div>
-100. First list item
-     - First nested list item
-       - Second nested list item
+
