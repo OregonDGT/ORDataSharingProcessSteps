@@ -1,3 +1,5 @@
+<img width="110" height="141" alt="EIS Logo" src="https://github.com/user-attachments/assets/54106502-f8b2-4772-88ad-157f92349d01" />
+
 # Oregon Data Sharing Process & Artifacts
 
 This document outlines Oregon’s Data Sharing Process and associated artifacts, providing a streamlined guide for implementing an enterprise-level Memorandum of Understanding (MOU). With step-by-step instructions, templates, and resources, it supports agencies in identifying, defining, and executing secure and compliant data-sharing use cases to enhance public services and collaboration statewide.  
