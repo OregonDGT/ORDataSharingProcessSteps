@@ -24,14 +24,14 @@ permalink: /execute/
 
 #### Templates/Resources
 1. DGT Resources
-     - Execute Use Case Recommendations 
+     - [Execute Use Case Recommendations.docx](https://github.com/user-attachments/files/22051722/Execute.Use.Case.Recommendations.docx)
        - Detailed guide for how to execute the use case for a variety of roles
      - State Agency Resources
-       - ODE Houseless Student Data Briefs, Understanding Student Houselessness Data Brief
+       - <a href="https://www.oregon.gov/ode/StudentSuccess/Documents/SNHIResearchBrief1.pdf">ODE Houseless Student Data Briefs</a>, <a href= "https://www.oregon.gov/ode/StudentSuccess/Documents/SNHIResearchBrief2.pdf">Understanding Student Houselessness Data Brief</a>
          - Examples of use case write-ups and report-outs
      - External Resources
-       - Data Labs Agile Rapid Prototyping
-        - Process for quickly determining viability of prototype solutions or approaches for use cases
+          - <a href="https://beeckcenter.georgetown.edu/foundation-of-a-successful-data-project-agile-rapid-prototyping/">Data Labs Agile Rapid Prototyping</a>
+             - Process for quickly determining viability of prototype solutions or approaches for use cases
 #### Deliverables- at the end of the step an agency should have completed the following:
 1. i.	Implemented use case outputs.
    
