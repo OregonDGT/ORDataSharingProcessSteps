@@ -27,17 +27,13 @@ permalink: /approve/
 
 #### Templates/Resources
 1. DGT Resources
-     - Execute Use Case Recommendations 
-       - Detailed guide for how to execute the use case for a variety of roles
-     -  State Agency Resources
-       - ODE Houseless Student Data Briefs, Understanding Student Houselessness Data Brief
-         - Examples of use case write-ups and report-outs
-     - External Resources
-       - Data Labs Agile Rapid Prototyping
-         - Process for quickly determining viability of prototype solutions or approaches for use cases
+     - Draft Dispute Resolution Recommendations
+          -  [Draft Dispute Resolution Recommendations.docx](https://github.com/user-attachments/files/22051133/Draft.Dispute.Resolution.Recommendations.docx)
+2. External Resources
+     - None 
 
 #### Deliverables- at the end of the step an agency should have completed the following:
-1. Finalized Draft Use Case Proposal.
+1. Approved or revised use case document
 
 <!-- Pagination -->
 <div class="pagination">
