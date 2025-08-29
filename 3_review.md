@@ -36,18 +36,19 @@ permalink: /review/
         - <a href="https://sharedsystems.dhsoha.state.or.us/DHSForms/Served/me100-011.pdf">ISPO-DHS-OHA Deidentification Policy</a>
             - DHS Policy referencing the need to deidentify data to protect privacy
 #### External Resources             
-1. CA IDEA Email Template to Initiate Data Sharing Request
+1.  <a href="https://docs.data.ca.gov/interagency-data-exchange-idea-guidebook/resources-and-references/templates#template-email-to-initiate-a-data-exchange-under-idea">CA IDEA Email Template to Initiate Data Sharing Request</a>
      - Communication template for interagency use
-2. CA IDEA Templates for Planning a Use Case Kickoff Mtg
+2. <a href="https://docs.data.ca.gov/interagency-data-exchange-idea-guidebook/resources-and-references/templates#template-planning-for-a-baucp-kickoff-meeting">CA IDEA Templates for Planning a Use Case Kickoff Mtg </a>
      - Agenda template for initial meeting
-3. Creating Space for Solution Mapping
+3. <a href="https://beeckcenter.georgetown.edu/foundation-of-a-successful-data-project-creating-space-for-solution-mapping">Creating Space for Solution Mapping </a>
      - Blog about identifying value of solutions and picking the right one
-4. Data Labs Tech Tools Worksheet 
+4. [Data Labs_ Tech Tools Worksheet.docx]
      - Inventorying and utilizing technology tools
-5. AISP Intro to Data Sharing and Integration
+5. <a href="https://aisp.upenn.edu/wp-content/uploads/2020/06/AISP-Intro-.pdf">AISP Intro to Data Sharing and Integration</a>
      - Basic information related to sharing and integrating data
-6. US HHS Deidentification Guide for HIPAA
-     - Cal HHS Deidentification Guide
+6. <a href="https://www.hhs.gov/hipaa/for-professionals/special-topics/de-identification/index.html"> US HHS Deidentification Guide for HIPAA </a>
+7. <a href="https://chhsdata.github.io/dataplaybook/documents/CHHS-DDG-V1.0-092316.pdf"> Cal HHS Deidentification Guide </a> 
+
 
 #### Deliverables- at the end of the step an agency should have completed the following:
 1. Documented review feedback.
