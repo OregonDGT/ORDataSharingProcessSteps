@@ -4,11 +4,11 @@ title: 0. Understand
 permalink: /understand/
 ---
 ## Step/Phase 0: Understand
-<img width="620" height="50" alt="Arrow-0" src="https://github.com/user-attachments/assets/be95dbb6-9c22-4b3c-bb20-46b1dbbc61c1" />
+<img width="930" height="75" alt="Arrow-0" src="https://github.com/user-attachments/assets/be95dbb6-9c22-4b3c-bb20-46b1dbbc61c1" />
 
 
 ### Understand
-> [!TIP]
+> [!NOTE]
 > Agencies establish baseline awareness of their own data and programs to understand what they collect and do not collect, identify ongoing programmatic needs, and pain points.  
 
 #### Guidance Needed:  
