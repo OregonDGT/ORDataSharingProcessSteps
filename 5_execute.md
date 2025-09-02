@@ -4,10 +4,10 @@ title: 5. Execute Use Case
 permalink: /execute/
 ---
 ## Step/Phase 5: Execute Use Case
-<img width="386" height="284" alt="github-steps" src="https://github.com/user-attachments/assets/c5a65f40-62e4-456b-897f-510ca7b36936" />
+<img width="930" height="75" alt="Arrow5" src="https://github.com/user-attachments/assets/f74fce04-ffbe-418b-8ce6-0ce712cbb5e8" />
 
-### Execute
-> [!TIP]
+### Process & Artifacts
+> [!NOTE]
 > Agencies execute use case according to the proposal.
 > 
 #### Guidance Needed:  
