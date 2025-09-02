@@ -4,10 +4,10 @@ title: 3. Develop Use Case
 permalink: /review/
 ---
 ## Step/Phase 3: Review Use Case
-<img width="386" height="284" alt="github-steps" src="https://github.com/user-attachments/assets/c5a65f40-62e4-456b-897f-510ca7b36936" />
+<img width="930" height="75" alt="Arrow3" src="https://github.com/user-attachments/assets/338def37-31ff-45cf-9cf5-8e6acb5e466c" />
 
-### Review
-> [!TIP]
+### Process & Artifacts
+> [!NOTE]
 > Receiving agency review and work with submitting agency to refine, review, and respond to use case request
 
 #### Guidance Needed:  
