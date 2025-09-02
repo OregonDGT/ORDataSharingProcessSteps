@@ -28,7 +28,7 @@ The <a href="https://sites.google.com/georgetown.edu/data-labs-playbook/define-t
 
 ### [05. Execute](5_execute.md)
 
-### [Resource Library](7_resource_library.md)
+### [Resource Library](resource_library.md)
 
 
 ## Change Log
