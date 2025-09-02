@@ -28,11 +28,8 @@ The <a href="https://sites.google.com/georgetown.edu/data-labs-playbook/define-t
 
 ### [05. Execute](5_execute.md)
 
-### [Action Items](6_action_items.md)
-
 ### [Resource Library](7_resource_library.md)
 
-### [Five plays for your department](index.md)
 
 ## Change Log
 
@@ -44,17 +41,8 @@ The <a href="https://sites.google.com/georgetown.edu/data-labs-playbook/define-t
   </tr>
   <tr>
     <td>1.0</td>
-    <td>June 2016</td>
+    <td>September 2025</td>
     <td>Initial release</td>
   </tr>
-  <tr>
-    <td>1.1</td>
-    <td>October 2016</td>
-    <td>Added CHHS De-Identification Guidelines</td>
-  </tr>
-  <tr>
-    <td>2.0</td>
-    <td>July 2017</td>
-    <td>Added CHHS sharing materials, other resources</td>
-  </tr>
+  
 </table> 
