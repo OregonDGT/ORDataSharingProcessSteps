@@ -4,7 +4,8 @@ title: 0. Understand
 permalink: /understand/
 ---
 ## Step/Phase 0: Understand
-<img width="386" height="284" alt="github-steps" src="https://github.com/user-attachments/assets/c5a65f40-62e4-456b-897f-510ca7b36936" />
+<img width="620" height="50" alt="Arrow-0" src="https://github.com/user-attachments/assets/be95dbb6-9c22-4b3c-bb20-46b1dbbc61c1" />
+
 
 ### Understand
 > [!TIP]
