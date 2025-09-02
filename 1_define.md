@@ -3,6 +3,8 @@ layout: page
 title: 1. Define Use Case
 permalink: /define/
 ---
+<img width="248" height="63" alt="eislogo3-5x1" src="https://github.com/user-attachments/assets/1fbbb293-01f2-43a0-8ce6-a91139cecca2" />
+
 ## Step/Phase 01: Define Use Case
 
 <img width="930" height="75" alt="Arrow1" src="https://github.com/user-attachments/assets/0e162e3f-fe67-4025-b43c-0faa16a8e3a3" />
