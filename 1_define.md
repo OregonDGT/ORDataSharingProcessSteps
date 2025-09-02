@@ -5,7 +5,7 @@ permalink: /define/
 ---
 ## Step/Phase 01: Define Use Case
 
-<img width="386" height="284" alt="github-steps" src="https://github.com/user-attachments/assets/c5a65f40-62e4-456b-897f-510ca7b36936" />
+<img width="620" height="50" alt="Arrow-0" src="https://github.com/user-attachments/assets/6185e46d-a69d-4a28-9b95-88e0b2d7239f" />
 
 ### Define
 > [!TIP]
