@@ -4,9 +4,9 @@ title: 2. Develop Use Case
 permalink: /develop/
 ---
 ## Step/Phase 2: Develop Use Case Proposal
-<img width="386" height="284" alt="github-steps" src="https://github.com/user-attachments/assets/c5a65f40-62e4-456b-897f-510ca7b36936" />
+<img width="930" height="75" alt="Arrow2" src="https://github.com/user-attachments/assets/3cd17a20-9f7b-4219-a3f8-cf7af28f4752" />
 
-### Develop
+### Process & Artifacts
 > [!TIP]
 > The overall data sharing process, template use case, instructions for completing a use case, how to facilitate development of a use case or further refine from the “define” step.
 #### Guidance Needed:  
