@@ -3,6 +3,9 @@ layout: page
 title: 2. Develop Use Case
 permalink: /develop/
 ---
+<img width="248" height="63" alt="eislogo3-5x1" src="https://github.com/user-attachments/assets/68843f9f-85e3-4c9e-89af-534e236daec5" />
+
+
 ## Step/Phase 2: Develop Use Case Proposal
 <img width="930" height="75" alt="Arrow2" src="https://github.com/user-attachments/assets/3cd17a20-9f7b-4219-a3f8-cf7af28f4752" />
 
