@@ -8,7 +8,7 @@ permalink: /define/
 <img width="620" height="50" alt="Arrow1" src="https://github.com/user-attachments/assets/0e162e3f-fe67-4025-b43c-0faa16a8e3a3" />
 
 ### Define
-> [!TIP]
+> [!NOTE]
 > Agency identifies need and develops a proposed use case for data sharing.
 
 #### Guidance needed:  
