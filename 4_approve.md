@@ -4,10 +4,10 @@ title: 4. Approve Use Case (or Dispute)
 permalink: /approve/
 ---
 ## Step/Phase 4: Approve Use Case (or Dispute)
-<img width="386" height="284" alt="github-steps" src="https://github.com/user-attachments/assets/c5a65f40-62e4-456b-897f-510ca7b36936" />
+<img width="930" height="75" alt="Arrow4" src="https://github.com/user-attachments/assets/8bfd154f-53f5-45fe-9732-551811ee042f" />
 
-### Approve
-> [!TIP]
+### Process & Artifacts
+> [!NOTE]
 > Agency whose data is requested must review and either approve or dispute/deny the data sharing request.
 > 
 #### Guidance Needed:  
