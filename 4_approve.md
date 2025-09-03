@@ -3,8 +3,7 @@ layout: page
 title: 4. Approve Use Case (or Dispute)
 permalink: /approve/
 ---
-<img width="248" height="63" alt="eislogo3-5x1" src="https://github.com/user-attachments/assets/cd28d8ce-64bd-467c-8d93-7fadab49438e" />
-
+<img width="252" height="66" alt="eislogo3-5x1F" src="https://github.com/user-attachments/assets/d6f65686-1ad7-4f8a-a61c-e03c94dda754" />
 
 ## Step/Phase 4: Approve Use Case (or Dispute)
 <img width="930" height="75" alt="Arrow4" src="https://github.com/user-attachments/assets/8bfd154f-53f5-45fe-9732-551811ee042f" />
