@@ -3,7 +3,7 @@ layout: page
 title: 0. Understand
 permalink: /understand/
 ---
-<img width="248" height="63" alt="eislogo3-5x1" src="https://github.com/user-attachments/assets/aaf2d6e0-44f9-489a-b526-b867d05ffa7f" />
+<img width="252" height="66" alt="eislogo3-5x1F" src="https://github.com/user-attachments/assets/d6f65686-1ad7-4f8a-a61c-e03c94dda754" />
 
 ## Step/Phase 0: Understand
 <img width="930" height="75" alt="Arrow-0" src="https://github.com/user-attachments/assets/be95dbb6-9c22-4b3c-bb20-46b1dbbc61c1" />
