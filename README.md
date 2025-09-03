@@ -1,4 +1,4 @@
-<img width="248" height="63" alt="eislogo3-5x1" src="https://github.com/user-attachments/assets/b4605b6f-a7ce-4b51-b0d1-f1d703f44ffc" />
+<img width="252" height="66" alt="eislogo3-5x1F" src="https://github.com/user-attachments/assets/d6f65686-1ad7-4f8a-a61c-e03c94dda754" />
 
 # Oregon Data Sharing Process & Artifacts
 
