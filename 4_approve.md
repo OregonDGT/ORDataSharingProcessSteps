@@ -40,6 +40,6 @@ permalink: /approve/
 <!-- Pagination -->
 <div class="pagination">
   <a class="pagination-item older" href="{{ site.baseurl }}/define">&laquo; Prev</a>
-  <a class="pagination-item newer" href="{{ site.baseurl }}/implement">Next &raquo;</a>
+  <a class="pagination-item newer" href="{{ site.baseurl }}/execute">Next &raquo;</a>
 </div>
 
