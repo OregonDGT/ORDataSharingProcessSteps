@@ -7,31 +7,7 @@ title: Home
 
 ![California Health and Human Services Agency Data Playbook - 3rd Edition]({{ site.baseurl }}/assets/images/00_figure01.png "California Health and Human Services Agency Data Playbook - 3rd Edition")
 <! keep https://chhsdata.github.io/dataplaybook/>
-## Five plays for your Department
 
-Here are five plays designed to help Departments utilize data to inform program and policy development. These plays can also be used to navigate CHHS Governance processes. Each section features detailed best practices. 
-
-A play contains data strategies, approaches and actions a Department may use to  administer programs and address policy issues.
-
-1. Define: goals & objectives
-2. Assess: tools & capabilities
-3. Implement: plan & strategy
-4. Evaluate: outcomes & impacts
-5. Share: progress & results
-
-## Data changes everything
-
->Our goal is to leverage our internal data to **improve the programs and services** we deliver to our clients.
-
-The Playbook can be used by Departments to solve problems with data. It is designed to help build an organizational culture that is focused on data and data-driven decision making. Departments can leverage the various components of the Playbook as they see fit and can customize the Playbook to their needs. 
-
-The Playbook serves as a hub for data-related resources available to all Departments. It is designed to be a **“living document”** that will change and adapt based on our collective experiences. Departments are encouraged to contribute to our library of  resources.
-
-The Playbook is a mechanism for us to disseminate best practices and lessons learned across the Agency. It consists of numerous toolkits that will help Department staff navigate data projects and allow us to discuss data-related issues and projects with common terminology.
-
->Organizations are often data-rich but insight-poor.
-
-The primary objective is to help Departments increase their efficiency and effectiveness–we do not want to just move data across Departments, rather we want to leverage data to improve outcomes for our clients and the effectiveness of our programs.
 
 <img width="252" height="66" alt="eislogo3-5x1F" src="https://github.com/user-attachments/assets/d6f65686-1ad7-4f8a-a61c-e03c94dda754" />
 
