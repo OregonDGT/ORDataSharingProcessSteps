@@ -30,7 +30,7 @@ permalink: /review/
 
 #### Templates/Resources
 1. DGT Resources
-     - [Draft Agency Use Case Review Recommendations.docx](https://github.com/user-attachments/files/22033805/Draft.Agency.Use.Case.Review.Recommendations.docx)
+    - [Draft.Agency.Use.Case.Review.Recommendations.pdf](https://github.com/user-attachments/files/22222639/Draft.Agency.Use.Case.Review.Recommendations.pdf)
         - Key elements for reviewing a Use Case
      - <a href="https://data.oregon.gov/Administrative/Open-Data-Guidance-Privacy-for-Open-Datasets/5zxz-jzpm/about_data">Privacy Guidance for Open Data</a>
         - Privacy-specific guidelines for datasets with protected information
