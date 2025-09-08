@@ -19,6 +19,6 @@ The '0-5' process steps provide a structured framework for data sharing, guiding
 <!-- Pagination -->
 <div class="pagination">
   <span class="pagination-item older">&laquo; Prev</span>
-  <a class="pagination-item newer" href="{{ site.baseurl }}/0_understand">Next &raquo;</a>
+  <a class="pagination-item newer" href="{{ site.baseurl }}/understand">Next &raquo;</a>
 </div>
 
