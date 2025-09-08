@@ -75,6 +75,6 @@ ___
 <!-- Pagination -->
 <div class="pagination">
   <a class="pagination-item older" href="{{ site.baseurl }}/">&laquo; Prev</a>
-  <a class="pagination-item newer" href="{{ site.baseurl }}/define">Next &raquo;</a>
+  <a class="pagination-item newer" href="{{ site.baseurl }}/understand">Next &raquo;</a>
 </div>
 
