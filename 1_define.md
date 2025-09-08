@@ -36,7 +36,7 @@ permalink: /define/
 1. DGT Resources 
      - <a href="https://data.oregon.gov/Administrative/Agency-Data-Coordinator-s-Handbook/p6rj-4fdp/about_data">Open Data Coordinator Handbook - Prioritizing Data</a> (can be modified for agencies to evaluate data needs) 
         - Page 11 for priority data categories 
-     - [Oregon Business Use Case Proposal Template.docx](https://github.com/user-attachments/files/22032635/Oregon.Business.Use.Case.Proposal.Template.docx)
+     - [Oregon.Business.Use.Case.Proposal.Template.pdf](https://github.com/user-attachments/files/22222255/Oregon.Business.Use.Case.Proposal.Template.pdf)
         - Critical template necessary to move to the next phasestep; documents all information needed to complete your use case proposal 
 2. State Agency Resources
      - [Research.Study.Planning.and.Development.SOP.pdf](https://github.com/user-attachments/files/22222241/Research.Study.Planning.and.Development.SOP.pdf) - OLDC Research Project Planning Guide
