@@ -25,10 +25,10 @@ permalink: /develop/
  
 #### Templates/Resources
 1. DGT Resources
-     - [Oregon Business Use Case Proposal Template (1).docx](https://github.com/user-attachments/files/22033664/Oregon.Business.Use.Case.Proposal.Template.1.docx)
+     - [Oregon.Business.Use.Case.Proposal.Template.pdf](https://github.com/user-attachments/files/22222518/Oregon.Business.Use.Case.Proposal.Template.pdf)
         - Critical template necessary to move to the next step; documents all information needed to complete your use case proposal
 2. External Resources
-     - [Cal HHS Business Use Case Proposal Template.docx](https://github.com/user-attachments/files/22033748/Cal.HHS.Business.Use.Case.Proposal.Template.docx) and [Cal HHS Business Use Case Proposal Instructions.pdf](https://github.com/user-attachments/files/22033750/Cal.HHS.Business.Use.Case.Proposal.Instructions.pdf)
+     - [Cal.HHS.Business.Use.Case.Proposal.pdf](https://github.com/user-attachments/files/22222552/Cal.HHS.Business.Use.Case.Proposal.pdf) and [Cal HHS Business Use Case Proposal Instructions.pdf](https://github.com/user-attachments/files/22033750/Cal.HHS.Business.Use.Case.Proposal.Instructions.pdf)
         - Another organization’s approach to documenting use case proposals
      - [Data Audit Worksheet.xlsx](https://github.com/user-attachments/files/22033757/Data.Audit.Worksheet.xlsx)
      - [Data Labs Field-Level Mapping Template.xlsx](https://github.com/user-attachments/files/22033772/Data.Labs.Field-Level.Mapping.Template.xlsx)    
