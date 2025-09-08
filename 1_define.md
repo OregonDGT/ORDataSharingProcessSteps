@@ -67,5 +67,5 @@ permalink: /define/
 <!-- Pagination -->
 <div class="pagination">
   <a class="pagination-item older" href="{{ site.baseurl }}/define">&laquo; Prev</a>
-  <a class="pagination-item newer" href="{{ site.baseurl }}/implement">Next &raquo;</a>
+  <a class="pagination-item newer" href="{{ site.baseurl }}/develop">Next &raquo;</a>
 </div>
