@@ -35,7 +35,7 @@ permalink: /execute/
           - <a href="https://beeckcenter.georgetown.edu/foundation-of-a-successful-data-project-agile-rapid-prototyping/">Data Labs Agile Rapid Prototyping</a>
              - Process for quickly determining viability of prototype solutions or approaches for use cases
 #### Deliverables- at the end of the step an agency should have completed the following:
-1. i.	Implemented use case outputs.
+1. 	Implemented use case outputs.
    
 <!-- Pagination -->
 <div class="pagination">
