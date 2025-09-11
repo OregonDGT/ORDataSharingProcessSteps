@@ -25,7 +25,7 @@ permalink: /develop/
  
 #### Templates/Resources
 1. DGT Resources
-     - [Oregon.Business.Use.Case.Proposal.Template.pdf](https://github.com/user-attachments/files/22222518/Oregon.Business.Use.Case.Proposal.Template.pdf)
+     - [Oregon.Business.Use.Case.Proposal.Template.pdf](https://github.com/user-attachments/files/22280746/Oregon.Business.Use.Case.Proposal.Template.pdf)
         - Critical template necessary to move to the next step; documents all information needed to complete your use case proposal
 2. External Resources
      - [Cal.HHS.Business.Use.Case.Proposal.pdf](https://github.com/user-attachments/files/22222552/Cal.HHS.Business.Use.Case.Proposal.pdf) and [Cal HHS Business Use Case Proposal Instructions.pdf](https://github.com/user-attachments/files/22033750/Cal.HHS.Business.Use.Case.Proposal.Instructions.pdf)
