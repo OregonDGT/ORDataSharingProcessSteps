@@ -29,8 +29,8 @@ permalink: /approve/
 
 #### Templates/Resources
 1. DGT Resources
-     - Draft Dispute Resolution Recommendations
-          -  [Draft Dispute Resolution Recommendations.docx](https://github.com/user-attachments/files/22051133/Draft.Dispute.Resolution.Recommendations.docx)
+     - [Draft.Dispute.Resolution.Recommendations.pdf](https://github.com/user-attachments/files/22280837/Draft.Dispute.Resolution.Recommendations.pdf)
+     
 2. External Resources
      - None 
 
