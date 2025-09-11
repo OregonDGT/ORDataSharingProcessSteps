@@ -39,7 +39,7 @@ permalink: /define/
      - [Oregon.Business.Use.Case.Proposal.Template.pdf](https://github.com/user-attachments/files/22265005/Oregon.Business.Use.Case.Proposal.Template.pdf)
         - Critical template necessary to move to the next phasestep; documents all information needed to complete your use case proposal 
 2. State Agency Resources
-     - [Research.Study.Planning.and.Development.SOP.pdf](https://github.com/user-attachments/files/22222241/Research.Study.Planning.and.Development.SOP.pdf) - OLDC Research Project Planning Guide
+     - [Research.Study.Planning.and.Development.SOP.DRAFT.pdf](https://github.com/user-attachments/files/22280689/Research.Study.Planning.and.Development.SOP.DRAFT.pdf) - OLDC Research Project Planning Guide
         - General project planning resource 
      - <a href= "https://www.oregon.gov/odot/programs/pages/research.aspx">ODOT Research Team Research Cycle</a>
         - Set of resources to help understand how research is conducted 
