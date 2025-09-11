@@ -45,7 +45,7 @@ permalink: /understand/
 7.  [Oregon Agency Data Inventory Template (1).xlsx](https://github.com/user-attachments/files/22031764/Oregon.Agency.Data.Inventory.Template.1.xlsx)
 
 ##### State Agency Resources
-1. [ODOT Data Value Mapping Template 2016.pptx](https://github.com/user-attachments/files/22031783/ODOT.Data.Value.Mapping.Template.2016.pptx) and <a href= "https://stateoforegon.sharepoint.com/sites/DAS-EIS-DGT/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FDAS%2DEIS%2DDGT%2FShared%20Documents%2FeMOU%20Project%20Planning%2FPilot%20Scoping%20and%20Execution%2FTemplates%2F0%20%2D%20Understand%2FData%20Value%20Mapping%20Tool%20Guidance%20%28final%29%2Epdf&parent=%2Fsites%2FDAS%2DEIS%2DDGT%2FShared%20Documents%2FeMOU%20Project%20Planning%2FPilot%20Scoping%20and%20Execution%2FTemplates%2F0%20%2D%20Understand">Instructions </a> 
+1.  Oregon DOT Strategic Data Business Plan / Data Value Mapping Tool - [Data Value Mapping Tool Guidance (final).pdf](https://github.com/user-attachments/files/22281353/Data.Value.Mapping.Tool.Guidance.final.pdf)
      - Used for developing shared understanding of how data is used and moves through your organization 
 
 ##### External Resources
