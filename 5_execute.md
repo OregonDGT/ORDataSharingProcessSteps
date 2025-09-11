@@ -26,7 +26,7 @@ permalink: /execute/
 
 #### Templates/Resources
 1. DGT Resources
-     - [Execute Use Case Recommendations.docx](https://github.com/user-attachments/files/22051722/Execute.Use.Case.Recommendations.docx)
+     - [Execute Use Case Recommendations.pdf](https://github.com/user-attachments/files/22280887/Execute.Use.Case.Recommendations.pdf)
        - Detailed guide for how to execute the use case for a variety of roles
      - State Agency Resources
        - <a href="https://www.oregon.gov/ode/StudentSuccess/Documents/SNHIResearchBrief1.pdf">ODE Houseless Student Data Briefs</a>, <a href= "https://www.oregon.gov/ode/StudentSuccess/Documents/SNHIResearchBrief2.pdf">Understanding Student Houselessness Data Brief</a>
