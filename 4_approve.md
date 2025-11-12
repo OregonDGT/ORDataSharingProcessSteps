@@ -16,6 +16,8 @@ permalink: /approve/
 
 1. DGT will need a documented process for use case review and vetting, as well as a clear process for what the options are when reviewing a submitted use case (Approve, deny w/proposed alternative, deny w/out proposed alternative…) for agencies to utilize.
 
+![EMOU_Data_Sharing_Workflow](https://github.com/user-attachments/assets/f1afc3bf-b1e2-4a01-96ca-3074a524d5d2)
+
 #### Dependencies/Assumptions
 1. Data sharing process via MOU is clearly documented so agencies understand their options.
 2. Process for “dispute” or conflict resolution/discussion and areas to engage CDO are documented.
