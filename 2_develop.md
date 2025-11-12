@@ -27,6 +27,7 @@ permalink: /develop/
 1. DGT Resources
      - [Oregon.Business.Use.Case.Proposal.Template.pdf](https://github.com/user-attachments/files/22280746/Oregon.Business.Use.Case.Proposal.Template.pdf)
         - Critical template necessary to move to the next step; documents all information needed to complete your use case proposal
+     - <a href= "https://stateoforegon.sharepoint.com/sites/OregonDataSharingEMOU/SitePages/Home.aspx?e=4%3Ab9994ef32f26470b91db3e9ca11d588a&web=1&sharingv2=true&fromShare=true&clickparams=eyAiWC1BcHBOYW1lIiA6ICJNaWNyb3NvZnQgT3V0bG9vayIsICJYLUFwcFZlcnNpb24iIDogIjE2LjAuMTg5MjUuMjAyMTYiLCAiT1MiIDogIldpbmRvd3MiIH0%3D&CID=91b0d8a1-703a-a000-9023-141ce3fe29a4&cidOR=SPO"> Enterprise Memorandum of Understanding (EMOU) Internal Sharepoint Site</a> Note: This website is accessible only to internal state agency employees.
 2. External Resources
      - [Cal.HHS.Business.Use.Case.Proposal.pdf](https://github.com/user-attachments/files/22222552/Cal.HHS.Business.Use.Case.Proposal.pdf) and [Cal HHS Business Use Case Proposal Instructions.pdf](https://github.com/user-attachments/files/22033750/Cal.HHS.Business.Use.Case.Proposal.Instructions.pdf)
         - Another organization’s approach to documenting use case proposals
