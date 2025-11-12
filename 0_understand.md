@@ -35,18 +35,17 @@ permalink: /understand/
 ##### DGT Resources (Internal)
 1. [Program and Data Inventory Template.xlsx](https://github.com/user-attachments/files/22031498/Program.and.Data.Inventory.Template.xlsx)
      - Excel book for tracking programs and datasets 
-3. [Oregon Agency Data Inventory Template.xlsx](https://github.com/user-attachments/files/22031541/Oregon.Agency.Data.Inventory.Template.xlsx)
-4. <a href= "https://data.oregon.gov/Administrative/Agency-Data-Coordinator-s-Handbook/p6rj-4fdp/about_data">Data Coordinator Handbook - Incl. Inventory Instructions 
+2. [Oregon Agency Data Inventory Template.xlsx](https://github.com/user-attachments/files/22031541/Oregon.Agency.Data.Inventory.Template.xlsx)
+3. <a href= "https://data.oregon.gov/Administrative/Agency-Data-Coordinator-s-Handbook/p6rj-4fdp/about_data">Data Coordinator Handbook - Incl. Inventory Instructions 
     - Instructions for completing inventories</a> 
-5. [Data Governance Maturity Model.xlsx](https://github.com/user-attachments/files/22031621/Data.Governance.Maturity.Model.xlsx)
+4. [Data Governance Maturity Model.xlsx](https://github.com/user-attachments/files/22031621/Data.Governance.Maturity.Model.xlsx)
     - Model for evaluating data governance maturity 
-6. Sample Agency Data Governance Committee Charter
-    - [Information Governance Council Charter_Signed_anonymous.pdf](https://github.com/user-attachments/files/22031645/Information.Governance.Council.Charter_Signed_anonymous.pdf)
-7.  [Oregon Agency Data Inventory Template (1).xlsx](https://github.com/user-attachments/files/22031764/Oregon.Agency.Data.Inventory.Template.1.xlsx)
 
 ##### State Agency Resources
 1.  Oregon DOT Strategic Data Business Plan / Data Value Mapping Tool - [Data Value Mapping Tool Guidance (final).pdf](https://github.com/user-attachments/files/22281353/Data.Value.Mapping.Tool.Guidance.final.pdf)
-     - Used for developing shared understanding of how data is used and moves through your organization 
+     - Used for developing shared understanding of how data is used and moves through your organization
+2. Sample Agency Data Governance Committee Charter
+    - [Information Governance Council Charter_Signed_anonymous.pdf](https://github.com/user-attachments/files/22031645/Information.Governance.Council.Charter_Signed_anonymous.pdf)
 
 ##### External Resources
 1. [High Value Data Asset Inventory_2024 (1).xlsx](https://github.com/user-attachments/files/22031945/High.Value.Data.Asset.Inventory_2024.1.xlsx)
