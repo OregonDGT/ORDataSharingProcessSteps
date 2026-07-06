@@ -3,7 +3,7 @@
 # Oregon Data Sharing Process & Artifacts
 
 > [!NOTE]
-> This document outlines Oregon’s Data Sharing Process and associated artifacts, providing a streamlined guide for implementing an enterprise-level Memorandum of Understanding (MOU). With step-by-step instructions, templates, and resources, it supports agencies in identifying, defining, and executing secure and compliant data-sharing use cases to enhance public services and collaboration statewide.  
+> This document outlines Oregon’s Data Sharing Process and associated artifacts. With step-by-step instructions, templates, and resources, it supports agencies in identifying, defining, and executing secure and compliant data-sharing use cases to enhance public services and collaboration statewide.  
 
 
 #### Six Step Pilot Data Sharing Process: 0-5
