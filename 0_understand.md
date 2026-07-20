@@ -25,7 +25,7 @@ permalink: /understand/
 1. Evaluate existing data related to potential use cases
 2. Determine what data is and isn’t collected currently (this is critical- data that isn’t currently collected will be much harder to fold into a use case)
 3. Identify internal SMEs for potential use cases, including data users, program leaders, and key partners
-4. Fill out data inventory template; engage DGT facilitator to assist 
+4. Fill out data inventory template; engage your Lead Data Steward to assist
 
 #### Templates/Resources 
 ##### DGT Resources (Internal)
