@@ -15,8 +15,8 @@ permalink: /define/
 
 #### Dependencies/Assumptions: 
 
-1. Agencies have done program evaluation or use case scoping and have an identified need/challenge that data sharing can effectively address [0. Understand] 
-2. Agencies have baseline awareness of their own data collections and program data collection via a data inventory, catalog, or other governance mechanism [0. Understand] 
+1. Agencies have done program evaluation or use case scoping and have an identified need/challenge that data sharing can effectively address [0. Understand](https://oregondgt.github.io/ORDataSharingProcessSteps/understand/)
+2. Agencies have baseline awareness of their own data collections and program data collection via a data inventory, catalog, or other governance mechanism [0. Understand](https://oregondgt.github.io/ORDataSharingProcessSteps/understand/)
 3. Agencies have means to access/understand data being collected by other agencies to identify potential data sharing use cases across programs  
 
 #### Core Activities for PhaseStep 1: 
