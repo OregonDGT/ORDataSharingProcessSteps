@@ -13,17 +13,13 @@ permalink: /understand/
 > [!NOTE]
 > Agencies establish baseline awareness of their own data and programs to understand what they collect and do not collect, identify ongoing programmatic needs, and pain points.  
 
-#### Guidance Needed:  
-
-1. Definition on what baseline awareness or maturity is, some level of program or data inventory so agency knows what data they collect. 
-
 #### Dependencies/Assumptions
 1. Agencies have a Lead Data Steward or other identified party responsible for agency data inventory completion.
 2. Agencies have completed an initial data inventory or are actively developing one.
 3. Agencies have data dictionaries to help them understand the data that’s intended to be shared and used. 
 4. Agencies have documented (or are actively documenting) regulated data and their associated regulatory or privacy accountabilities. 
 5. Agencies have identified roles and responsibilities related to data sharing and data sharing use case review and approval. 
-6. Agencies have completed the executing the MOU [link to resources].   
+6. Agencies have signed a memorandum of understanding [[link to resources](https://stateoforegon.sharepoint.com/sites/OregonDataSharingEMOU)].   
 
 #### Core Activities for Step/Phase 0
 1. Evaluate existing data related to potential use cases
