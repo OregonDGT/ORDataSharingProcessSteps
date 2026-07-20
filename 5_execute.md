@@ -12,9 +12,6 @@ permalink: /execute/
 > [!NOTE]
 > Agencies execute use case according to the proposal.
 > 
-#### Guidance Needed:  
-
-1. For Pilot, agencies will have a prescribed suggested output that we are intending to guide them to. For ongoing implementation, this section should be considered part of a living document/playbook to help guide agencies.
 
 #### Dependencies/Assumptions
 1. Agencies have completed appropriate solution analysis in Steps 1-3 and have identified any outputs, deliverables, or overall outcomes from their specific use case.
