@@ -9,7 +9,7 @@ permalink: /develop/
 <img width="930" height="75" alt="Arrow2" src="https://github.com/user-attachments/assets/3cd17a20-9f7b-4219-a3f8-cf7af28f4752" />
 
 ### Process & Artifacts
-> [!TIP]
+> [!NOTE]
 > The overall data sharing process, template use case, instructions for completing a use case, how to facilitate development of a use case or further refine from the “define” step.
 > 
 #### Dependencies/Assumptions
