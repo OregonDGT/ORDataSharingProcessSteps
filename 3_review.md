@@ -11,22 +11,19 @@ permalink: /review/
 ### Process & Artifacts
 > [!NOTE]
 > Receiving agency review and work with submitting agency to refine, review, and respond to use case request
-
-#### Guidance Needed:  
-1. Template/draft process flow for receiving and reviewing request or a decision tree on the use case review process.
    
 #### Dependencies/Assumptions
 1. Agencies have identified a process by which they will receive, review, and respond to data sharing requests [0. Understand]
 2. Agencies understand the releasability of their data and are committed to negotiating and scoping with agencies to address requests and respond as needed
 3. Agencies have, or are in the process of developing, de-identification, aggregation, or other guidelines that are compliant with their specific regulatory requirements
 4. Agencies have appropriate guidance to scope use cases, kick off use case scoping with agency partners, and are able to appropriately adjust, refine, and scope their use cases with the goal of getting to a successful use case that meets framework criteria (legal, ethical, good idea)
-5. Use Case Template has appropriate fields for agency reviewers to respond to/address data sharing concerns within a use case
+5. Data Use Case Template has appropriate fields for agency reviewers to respond to/address data sharing concerns within a use case
      - Examples: known risks, legal authority, possible alternatives, each agency’s position on the sharing (pro and con or summary of discussions/attempts to get to “yes”)
 
 #### Core Activities for Step/Phase 3
-1. Engage in review process necessary for validating and refining Business Use Case Proposal
+1. Engage in review process necessary for validating and refining Data Use Case Proposal
 2. Collaborate with agency partners to determine gaps or changes that need to occur in the Use Case
-3. Evaluate scope and application of Business Use Case Proposal
+3. Evaluate scope and application of Data Use Case Proposal
 
 #### Templates/Resources
 1. DGT Resources
