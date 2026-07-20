@@ -8,7 +8,7 @@ title: Home
 # Oregon Data Sharing Process & Artifacts
 
 > [!NOTE]
-> This site outlines Oregon’s Data Sharing Process and associated templates for agencies interested in sharing data. Prior to sharing data, each agency must have a signed enterprise memorandum of understanding (MOU). Signed MOUs can be found on our internal site here: insert link to sharepoint
+> This site outlines Oregon’s Data Sharing Process and associated templates for agencies interested in sharing data. Prior to sharing data, each agency must have a signed enterprise memorandum of understanding (MOU). Signed MOUs can be found on our internal site here: [Oregon Data Sharing Document Library](https://stateoforegon.sharepoint.com/sites/OregonDataSharingEMOU)
   
 
 
