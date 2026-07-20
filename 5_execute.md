@@ -18,7 +18,7 @@ permalink: /execute/
 
 #### Core Activities for Step/Phase 5
 1. If necessary, review use case and determine new scope based on feedback from previous steps
-2. Develop a plan for implementation (currently no template or articulated process for DGT- will be part of development for the next project)
+2. Develop a plan for implementation 
 3. Notify all stakeholders of intent to execute and timelines for execution
 
 #### Templates/Resources
