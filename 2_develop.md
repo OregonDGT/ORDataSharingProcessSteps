@@ -22,7 +22,7 @@ permalink: /develop/
  
 #### Templates/Resources
 1. DGT Resources
-     - [Oregon.Data.Use.Case.Proposal.Template.pdf(https://stateoforegon.sharepoint.com/:b:/r/sites/DataGovernanceResourceLibrary/Shared%20Documents/General/Data%20Sharing/Oregon%20Data%20Use%20Case%20Proposal%20Template.pdf?csf=1&web=1&e=bJmBdX)
+     - [Oregon.Data.Use.Case.Proposal.Template.pdf](https://stateoforegon.sharepoint.com/:b:/r/sites/DataGovernanceResourceLibrary/Shared%20Documents/General/Data%20Sharing/Oregon%20Data%20Use%20Case%20Proposal%20Template.pdf?csf=1&web=1&e=bJmBdX)
         - Critical template necessary to move to the next step; documents all information needed to complete your use case proposal
      - <a href= "https://stateoforegon.sharepoint.com/sites/OregonDataSharingEMOU/SitePages/Home.aspx?e=4%3Ab9994ef32f26470b91db3e9ca11d588a&web=1&sharingv2=true&fromShare=true&clickparams=eyAiWC1BcHBOYW1lIiA6ICJNaWNyb3NvZnQgT3V0bG9vayIsICJYLUFwcFZlcnNpb24iIDogIjE2LjAuMTg5MjUuMjAyMTYiLCAiT1MiIDogIldpbmRvd3MiIH0%3D&CID=91b0d8a1-703a-a000-9023-141ce3fe29a4&cidOR=SPO"> Enterprise Memorandum of Understanding (EMOU) Internal Sharepoint Site</a> Note: This website is accessible only to internal state agency employees.
 2. External Resources
