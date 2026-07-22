@@ -57,6 +57,7 @@ permalink: /define/
         - Stakeholder environment tool 
      -  <a href="https://stateoforegon.sharepoint.com/:w:/r/sites/DAS-EIS-DGT/Shared Documents/eMOU Project Planning/Pilot Scoping and Execution/Templates/1 - Define Use Case/Stakeholder Mapping Worksheet.docx?d=w4c40e811bc4f4a23a95bba2fbc7024eb&csf=1&web=1&e=37M7Wq">Data Labs Stakeholder Mapping Worksheet</a>
         - Stakeholder mapping and identification tool 
+
 #### Deliverables- at the end of the step an agency should have completed the following:   
 1. Drafted data use case outline.
 
