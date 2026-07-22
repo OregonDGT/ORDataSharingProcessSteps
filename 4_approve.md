@@ -8,6 +8,14 @@ permalink: /approve/
 ## Step/Phase 4: Approve Use Case (or Dispute)
 <img width="930" height="75" alt="Arrow4" src="https://github.com/user-attachments/assets/8bfd154f-53f5-45fe-9732-551811ee042f" />
 
+<!-- Pagination -->
+<div class="pagination">
+  <a class="pagination-item older" href="{{ site.baseurl }}/review">&laquo; Prev</a>
+  <a class="pagination-item newer" href="{{ site.baseurl }}/execute">Next &raquo;</a>
+</div>
+
+___
+
 ### Process & Artifacts
 > [!NOTE]
 > Agency whose data is requested must review and either approve or dispute/deny the data sharing request.
@@ -28,9 +36,5 @@ permalink: /approve/
 #### Deliverables- at the end of the step an agency should have completed the following:
 1. Approved or revised use case document
 
-<!-- Pagination -->
-<div class="pagination">
-  <a class="pagination-item older" href="{{ site.baseurl }}/define">&laquo; Prev</a>
-  <a class="pagination-item newer" href="{{ site.baseurl }}/execute">Next &raquo;</a>
-</div>
+___
 
