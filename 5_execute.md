@@ -8,6 +8,14 @@ permalink: /execute/
 ## Step/Phase 5: Execute Use Case
 <img width="930" height="75" alt="Arrow5" src="https://github.com/user-attachments/assets/f74fce04-ffbe-418b-8ce6-0ce712cbb5e8" />
 
+<!-- Pagination -->
+<div class="pagination">
+  <a class="pagination-item older" href="{{ site.baseurl }}/approve">&laquo; Prev</a>
+  <a class="pagination-item newer" href="{{ site.baseurl }}/resource_library">Next &raquo;</a>
+</div>
+
+___
+
 ### Process & Artifacts
 > [!NOTE]
 > Agencies execute use case according to the proposal.
@@ -34,8 +42,4 @@ permalink: /execute/
 #### Deliverables- at the end of the step an agency should have completed the following:
 1. 	Implemented use case outputs.
    
-<!-- Pagination -->
-<div class="pagination">
-  <a class="pagination-item older" href="{{ site.baseurl }}/define">&laquo; Prev</a>
-  <a class="pagination-item newer" href="{{ site.baseurl }}/resource_library">Next &raquo;</a>
-</div>
+___
