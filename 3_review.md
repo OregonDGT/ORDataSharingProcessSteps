@@ -8,6 +8,14 @@ permalink: /review/
 ## Step/Phase 3: Review Use Case
 <img width="930" height="75" alt="Arrow3" src="https://github.com/user-attachments/assets/338def37-31ff-45cf-9cf5-8e6acb5e466c" />
 
+<!-- Pagination -->
+<div class="pagination">
+  <a class="pagination-item older" href="{{ site.baseurl }}/develop">&laquo; Prev</a>
+  <a class="pagination-item newer" href="{{ site.baseurl }}/approve">Next &raquo;</a>
+</div>
+
+___
+
 ### Process & Artifacts
 > [!NOTE]
 > Receiving agency review and work with submitting agency to refine, review, and respond to use case request
@@ -53,8 +61,4 @@ permalink: /review/
 1. Documented review feedback.
 2. Consensus on use case scope.
 
-<!-- Pagination -->
-<div class="pagination">
-  <a class="pagination-item older" href="{{ site.baseurl }}/define">&laquo; Prev</a>
-  <a class="pagination-item newer" href="{{ site.baseurl }}/approve">Next &raquo;</a>
-</div>
+___
