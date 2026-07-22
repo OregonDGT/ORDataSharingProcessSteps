@@ -8,6 +8,14 @@ permalink: /develop/
 ## Step/Phase 2: Develop Use Case Proposal
 <img width="930" height="75" alt="Arrow2" src="https://github.com/user-attachments/assets/3cd17a20-9f7b-4219-a3f8-cf7af28f4752" />
 
+<!-- Pagination -->
+<div class="pagination">
+  <a class="pagination-item older" href="{{ site.baseurl }}/define">&laquo; Prev</a>
+  <a class="pagination-item newer" href="{{ site.baseurl }}/review">Next &raquo;</a>
+</div>
+
+___
+
 ### Process & Artifacts
 > [!NOTE]
 > The overall data sharing process, template use case, instructions for completing a use case, how to facilitate development of a use case or further refine from the “define” step.
@@ -33,8 +41,4 @@ permalink: /develop/
 #### Deliverables- at the end of the step an agency should have completed the following:
 1. Finalized Draft Data Use Case Proposal.
         
-<!-- Pagination -->
-<div class="pagination">
-  <a class="pagination-item older" href="{{ site.baseurl }}/define">&laquo; Prev</a>
-  <a class="pagination-item newer" href="{{ site.baseurl }}/review">Next &raquo;</a>
-</div>
+___
