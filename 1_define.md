@@ -3,8 +3,7 @@ layout: page
 title: 1. Define Use Case
 permalink: /define/
 ---
-<img width="200" height="198" alt="or-data-sharing-logo-git-hub-200" src="https://github.com/user-attachments/assets/4e61e6d5-2e21-4c09-8864-d7a585c0004e" />
-
+<img width="150" height="148" alt="or-data-sharing-logo-git-hub-200" src="https://github.com/user-attachments/assets/4e61e6d5-2e21-4c09-8864-d7a585c0004e" />
 
 ## Step/Phase 01: Define Use Case
 
