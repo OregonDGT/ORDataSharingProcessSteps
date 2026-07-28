@@ -3,7 +3,7 @@ layout: page
 title: 5. Execute Use Case
 permalink: /execute/
 ---
-<img width="252" height="66" alt="eislogo3-5x1F" src="https://github.com/user-attachments/assets/d6f65686-1ad7-4f8a-a61c-e03c94dda754" />
+<img width="150" height="148" alt="or-data-sharing-logo-git-hub-200" src="https://github.com/user-attachments/assets/4e61e6d5-2e21-4c09-8864-d7a585c0004e" />
 
 ## Step/Phase 5: Execute Use Case
 <img width="930" height="75" alt="Arrow5" src="https://github.com/user-attachments/assets/f74fce04-ffbe-418b-8ce6-0ce712cbb5e8" />
