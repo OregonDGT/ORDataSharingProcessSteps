@@ -3,8 +3,7 @@ layout: default
 title: Home
 ---
 
-<img width="1366" height="504" alt="or-data-sharing-banner-github-v4" src="https://github.com/user-attachments/assets/ff999e57-487f-4ec7-a21c-2f39dc85ec2a" />
-
+<img width="1366" height="504" alt="github-banner-data-sharing-logo-eis-map" src="https://github.com/user-attachments/assets/7bd1e850-d404-4a55-ba52-aedfc9680997" />
 
 # Oregon Data Sharing Process Steps & Artifacts
 
