@@ -3,7 +3,7 @@ layout: page
 title: 2. Develop Use Case
 permalink: /develop/
 ---
-<img width="200" height="198" alt="or-data-sharing-logo-git-hub-200" src="https://github.com/user-attachments/assets/4e61e6d5-2e21-4c09-8864-d7a585c0004e" />
+<img width="150" height="148" alt="or-data-sharing-logo-git-hub-200" src="https://github.com/user-attachments/assets/4e61e6d5-2e21-4c09-8864-d7a585c0004e" />
 
 ## Step/Phase 2: Develop Use Case Proposal
 <img width="930" height="75" alt="Arrow2" src="https://github.com/user-attachments/assets/3cd17a20-9f7b-4219-a3f8-cf7af28f4752" />
