@@ -1,4 +1,4 @@
-<img width="252" height="66" alt="eislogo3-5x1F" src="https://github.com/user-attachments/assets/d6f65686-1ad7-4f8a-a61c-e03c94dda754" />
+<img width="200" height="198" alt="or-data-sharing-logo-git-hub-200" src="https://github.com/user-attachments/assets/20bcdf37-b280-484f-b3ae-64585abf6a73" />
 
 # Oregon Data Sharing Process & Artifacts
 
@@ -9,13 +9,15 @@
 #### Six Step Pilot Data Sharing Process: 0-5
 The '0-5' process steps provide a structured framework for data sharing, guiding agencies from understanding their data landscape (Step 0) to executing and refining data-sharing use cases (Step 5). Each step includes key activities, dependencies, and resources to ensure a secure, compliant, and effective approach to inter-agency collaboration. <i> For the pilot project, Data Governance and Transparency (DGT) will be providing resources, facilitators, and observers to support and refine the use of this data sharing process and associated resources</i>. 
 
-<img width="386" height="112" alt="github-steps-F" src="https://github.com/user-attachments/assets/b7cbe81e-0306-486c-bfb8-a4baf32f8f7c" />
+
+<img width="339" height="108" alt="data-sharing-steps" src="https://github.com/user-attachments/assets/ddb8585a-47ce-4b96-8e97-586d4c966ff7" />
 
 #### Data Sharing Playbook Resources
 The <a href="https://sites.google.com/georgetown.edu/data-labs-playbook/define-the-data-challenge?authuser=0">Data Labs Playbook</a> and the <a href="https://chhsdata.github.io/dataplaybook">CHHS Data Playbook</a> are valuable resources for agencies navigating the six-step data-sharing process. These playbooks provide practical guidance, templates, and best practices to help define data challenges, scope use cases, and eneffective collaboration. Agencies can use these tools to align their efforts with the structured framework, enhancing clarity and efficiency at every stage.
 
 ## Oregon Data Sharing Process Steps 
-<img width="620" height="50" alt="Arrow5" src="https://github.com/user-attachments/assets/7100ade6-c82c-4cb4-abd9-fba81c872a6a" />
+
+
 
 ### [0. Understand](0_understand.md)
 
