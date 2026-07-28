@@ -3,7 +3,7 @@ layout: page
 title: 0. Understand
 permalink: /understand/
 ---
-<img width="200" height="198" alt="or-data-sharing-logo-git-hub-200" src="https://github.com/user-attachments/assets/2c26ca27-301b-40f4-87db-aff7a10a00a6" />
+<img width="150" height="148" alt="or-data-sharing-logo-git-hub-200" src="https://github.com/user-attachments/assets/4e61e6d5-2e21-4c09-8864-d7a585c0004e" />
 
 ## Step/Phase 0: Understand
 <img width="930" height="75" alt="Arrow-0" src="https://github.com/user-attachments/assets/be95dbb6-9c22-4b3c-bb20-46b1dbbc61c1" />
