@@ -3,7 +3,7 @@ layout: page
 title: 3. Develop Use Case
 permalink: /review/
 ---
-<img width="200" height="198" alt="or-data-sharing-logo-git-hub-200" src="https://github.com/user-attachments/assets/4e61e6d5-2e21-4c09-8864-d7a585c0004e" />
+<img width="150" height="148" alt="or-data-sharing-logo-git-hub-200" src="https://github.com/user-attachments/assets/4e61e6d5-2e21-4c09-8864-d7a585c0004e" />
 
 ## Step/Phase 3: Review Use Case
 <img width="930" height="75" alt="Arrow3" src="https://github.com/user-attachments/assets/338def37-31ff-45cf-9cf5-8e6acb5e466c" />
