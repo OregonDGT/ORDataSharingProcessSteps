@@ -8,6 +8,12 @@ permalink: /understand/
 ## Step/Phase 0: Understand
 <img width="930" height="75" alt="Arrow-0" src="https://github.com/user-attachments/assets/be95dbb6-9c22-4b3c-bb20-46b1dbbc61c1" />
 
+<!-- Pagination -->
+<div class="pagination">
+  <a class="pagination-item older" href="{{ site.baseurl }}/">&laquo; Prev</a>
+  <a class="pagination-item newer" href="{{ site.baseurl }}/define">Next &raquo;</a>
+</div>
+___
 
 ### Process & Artifacts
 > [!NOTE]
@@ -66,10 +72,4 @@ permalink: /understand/
 2. Identification of regulated data and associated responsibilities. 
 
 ___
-
-<!-- Pagination -->
-<div class="pagination">
-  <a class="pagination-item older" href="{{ site.baseurl }}/">&laquo; Prev</a>
-  <a class="pagination-item newer" href="{{ site.baseurl }}/define">Next &raquo;</a>
-</div>
 
