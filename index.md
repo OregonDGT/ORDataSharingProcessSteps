@@ -2,8 +2,7 @@
 layout: default
 title: Home
 ---
-
-<img width="1366" height="504" alt="github-banner-data-sharing-logo-eis-map" src="https://github.com/user-attachments/assets/7bd1e850-d404-4a55-ba52-aedfc9680997" />
+<img width="640" height="320" alt="ORDataSharingBanner-640x320" src="https://github.com/user-attachments/assets/2fb7980e-02a6-4033-a337-558346aa11c2" />
 
 <img width="386" height="112" alt="github-steps-F" src="https://github.com/user-attachments/assets/b7cbe81e-0306-486c-bfb8-a4baf32f8f7c" />
 
