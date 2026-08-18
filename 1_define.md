@@ -25,11 +25,11 @@ permalink: /define/
 2. Agencies have baseline awareness of their own data collections and program data collection via a data inventory, catalog, or other governance mechanism [0. Understand](https://oregondgt.github.io/ORDataSharingProcessSteps/understand/)
 3. Agencies have means to access/understand data being collected by other agencies to identify potential data sharing use cases across programs  
 
-#### Core Activities for PhaseStep 1: 
+#### Core Activities for Phase Step 1: 
 
 1. Identify one or more agency needs that can be solved using cross-agency data sharing
 2. Outline specifics of what data will be used and for what purpose
-3. Develop list of partners and expected roles and responsibilities for accomplishing the use case
+3. Develop list of partners and expected roles and responsibilities for completing the use case
 4. Document the key information necessary to develop a use case proposal
 5. Determine specific need and construct a business case to articulate how this data use case will address this need 
 
@@ -40,7 +40,7 @@ permalink: /define/
         - Page 11 for priority data categories 
      - [Oregon.Data.Use.Case.Proposal.Template.pdf](https://stateoforegon.sharepoint.com/:b:/r/sites/DataGovernanceResourceLibrary/Shared%20Documents/General/Data%20Sharing/Oregon%20Data%20Use%20Case%20Proposal%20Template.pdf?csf=1&web=1&e=bJmBdX)
         - Critical template necessary to move to the next step; documents all information needed to complete your use case proposal
-     - <a href= "https://stateoforegon.sharepoint.com/sites/OregonDataSharingEMOU/SitePages/Home.aspx?e=4%3Ab9994ef32f26470b91db3e9ca11d588a&web=1&sharingv2=true&fromShare=true&clickparams=eyAiWC1BcHBOYW1lIiA6ICJNaWNyb3NvZnQgT3V0bG9vayIsICJYLUFwcFZlcnNpb24iIDogIjE2LjAuMTg5MjUuMjAyMTYiLCAiT1MiIDogIldpbmRvd3MiIH0%3D&CID=91b0d8a1-703a-a000-9023-141ce3fe29a4&cidOR=SPO"> Enterprise Memorandum of Understanding (EMOU) Internal Sharepoint Site</a> Note: This website is accessible only to internal state agency employees.
+     - <a href= "https://stateoforegon.sharepoint.com/sites/OregonDataSharingEMOU/SitePages/Home.aspx?e=4%3Ab9994ef32f26470b91db3e9ca11d588a&web=1&sharingv2=true&fromShare=true&clickparams=eyAiWC1BcHBOYW1lIiA6ICJNaWNyb3NvZnQgT3V0bG9vayIsICJYLUFwcFZlcnNpb24iIDogIjE2LjAuMTg5MjUuMjAyMTYiLCAiT1MiIDogIldpbmRvd3MiIH0%3D&CID=91b0d8a1-703a-a000-9023-141ce3fe29a4&cidOR=SPO"> Enterprise Memorandum of Understanding (EMOU) Internal SharePoint Site</a> Note: This website is accessible only to internal state agency employees.
 2. State Agency Resources
      - [Research.Study.Planning.and.Development.SOP.DRAFT.pdf](https://github.com/user-attachments/files/22280689/Research.Study.Planning.and.Development.SOP.DRAFT.pdf) - OLDC Research Project Planning Guide
         - General project planning resource 
