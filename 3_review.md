@@ -16,9 +16,9 @@ permalink: /review/
 
 ___
 
-### Process & Artifacts
+### Process and Artifacts
 > [!NOTE]
-> Receiving agency review and work with submitting agency to refine, review, and respond to use case request
+> Receiving agency reviews the request and works with the submitting agency to refine, evaluate, and respond to the use‑case submission.
    
 #### Dependencies/Assumptions
 1. Agencies have identified a process by which they will receive, review, and respond to data sharing requests [0. Understand]
