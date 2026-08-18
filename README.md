@@ -1,6 +1,6 @@
 <img width="200" height="198" alt="or-data-sharing-logo-git-hub-200" src="https://github.com/user-attachments/assets/20bcdf37-b280-484f-b3ae-64585abf6a73" />
 
-# Oregon Data Sharing Process & Artifacts
+# Oregon Data Sharing Process and Artifacts
 
 > [!NOTE]
 > This document outlines Oregon’s Data Sharing Process and associated artifacts. With step-by-step instructions, templates, and resources, it supports agencies in identifying, defining, and executing secure and compliant data-sharing use cases to enhance public services and collaboration statewide.  
@@ -13,7 +13,7 @@ The '0-5' process steps provide a structured framework for data sharing, guiding
 <img width="339" height="108" alt="data-sharing-steps" src="https://github.com/user-attachments/assets/ddb8585a-47ce-4b96-8e97-586d4c966ff7" />
 
 #### Data Sharing Playbook Resources
-The <a href="https://sites.google.com/georgetown.edu/data-labs-playbook/define-the-data-challenge?authuser=0">Data Labs Playbook</a> and the <a href="https://chhsdata.github.io/dataplaybook">CHHS Data Playbook</a> are valuable resources for agencies navigating the six-step data-sharing process. These playbooks provide practical guidance, templates, and best practices to help define data challenges, scope use cases, and eneffective collaboration. Agencies can use these tools to align their efforts with the structured framework, enhancing clarity and efficiency at every stage.
+The <a href="https://sites.google.com/georgetown.edu/data-labs-playbook/define-the-data-challenge?authuser=0">Data Labs Playbook</a> and the <a href="https://chhsdata.github.io/dataplaybook">CHHS Data Playbook</a> are valuable resources for agencies navigating the six-step data-sharing process. These playbooks provide practical guidance, templates, and best practices to help define data challenges, scope use cases, and effective collaboration. Agencies can use these tools to align their efforts with the structured framework, enhancing clarity and efficiency at every stage.
 
 ## Oregon Data Sharing Process Steps 
 
