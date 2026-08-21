@@ -19,7 +19,7 @@ ___
 ### Process & Artifacts
 > [!NOTE]
 > The overall data sharing process, template use case, instructions for completing a use case, how to facilitate development of a use case or further refine from the “define” step.
-> 
+ 
 #### Dependencies/Assumptions
 1. Agencies have the tools needed to successfully engage each other to discuss use cases: perform initial outreach, share a proposed use case, facilitate discussion/feedback and scoping
 2. Agencies who sign the MOU are committing to “getting to yes” when scoping use cases, or to clearly documenting why a use case should not move forward [legal, ethical, good idea].
