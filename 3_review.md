@@ -33,30 +33,9 @@ ___
 2. Collaborate with agency partners to determine gaps or changes that need to occur in the Use Case
 3. Evaluate scope and application of Data Use Case Proposal
 
-#### Templates/Resources
-1. DGT Resources
-    - [Draft.Agency.Use.Case.Review.Recommendations.pdf](https://github.com/user-attachments/files/22222639/Draft.Agency.Use.Case.Review.Recommendations.pdf)
-        - Key elements for reviewing a Use Case
-     - <a href="https://data.oregon.gov/Administrative/Open-Data-Guidance-Privacy-for-Open-Datasets/5zxz-jzpm/about_data">Privacy Guidance for Open Data</a>
-        - Privacy-specific guidelines for datasets with protected information
-    - State Agency Resources
-        - <a href="https://sharedsystems.dhsoha.state.or.us/DHSForms/Served/me100-011.pdf">ISPO-DHS-OHA Deidentification Policy</a>
-            - DHS Policy referencing the need to deidentify data to protect privacy
-#### External Resources             
-1.  <a href="https://docs.data.ca.gov/interagency-data-exchange-idea-guidebook/resources-and-references/templates#template-email-to-initiate-a-data-exchange-under-idea">CA IDEA Email Template to Initiate Data Sharing Request</a>
-     - Communication template for interagency use
-2. <a href="https://docs.data.ca.gov/interagency-data-exchange-idea-guidebook/resources-and-references/templates#template-planning-for-a-baucp-kickoff-meeting">CA IDEA Templates for Planning a Use Case Kickoff Mtg </a>
-     - Agenda template for initial meeting
-3. <a href="https://beeckcenter.georgetown.edu/foundation-of-a-successful-data-project-creating-space-for-solution-mapping">Creating Space for Solution Mapping </a>
-     - Blog about identifying value of solutions and picking the right one
-4. [Data Labs_ Tech Tools Worksheet.docx]
-     - Inventorying and utilizing technology tools
-5. <a href="https://aisp.upenn.edu/wp-content/uploads/2020/06/AISP-Intro-.pdf">AISP Intro to Data Sharing and Integration</a>
-     - Basic information related to sharing and integrating data
-6. <a href="https://www.hhs.gov/hipaa/for-professionals/special-topics/de-identification/index.html"> US HHS Deidentification Guide for HIPAA </a>
-7. <a href="https://chhsdata.github.io/dataplaybook/documents/CHHS-DDG-V1.0-092316.pdf"> Cal HHS Deidentification Guide </a> 
-
-
+#### Templates/Resources (Internal)
+1. [Phase 3 Materials](https://stateoforegon.sharepoint.com/sites/DataGovernanceResourceLibrary/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FDataGovernanceResourceLibrary%2FShared%20Documents%2FGeneral%2FData%20Sharing%2FData%20Sharing%20Training%20Resources%20and%20Templates%2FPhase%203&viewid=76113660%2D4b03%2D4a9d%2D836b%2D61714b93cddd)
+     
 #### Deliverables- at the end of the step an agency should have completed the following:
 1. Documented review feedback.
 2. Consensus on use case scope.
