@@ -33,37 +33,14 @@ permalink: /define/
 4. Document the key information necessary to develop a use case proposal
 5. Determine specific need and construct a business case to articulate how this data use case will address this need 
 
-#### Templates/Resources: 
+#### Templates/Resources (Internal)
 
-1. DGT Resources 
-     - <a href="https://data.oregon.gov/Administrative/Agency-Data-Coordinator-s-Handbook/p6rj-4fdp/about_data">Open Data Coordinator Handbook - Prioritizing Data</a> (can be modified for agencies to evaluate data needs) 
-        - Page 11 for priority data categories 
+1. [Phase 1 Reference Materials](https://stateoforegon.sharepoint.com/sites/DataGovernanceResourceLibrary/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FDataGovernanceResourceLibrary%2FShared%20Documents%2FGeneral%2FData%20Sharing%2FData%20Sharing%20Training%20Resources%20and%20Templates%2FPhase%201&viewid=76113660%2D4b03%2D4a9d%2D836b%2D61714b93cddd)
+     - <a href="https://data.oregon.gov/Administrative/Agency-Data-Coordinator-s-Handbook/p6rj-4fdp/about_data">Open Data Coordinator Handbook [Phase 1 Reference Materials](https://stateoforegon.sharepoint.com/sites/DataGovernanceResourceLibrary/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FDataGovernanceResourceLibrary%2FShared%20Documents%2FGeneral%2FData%20Sharing%2FData%20Sharing%20Training%20Resources%20and%20Templates%2FPhase%201&viewid=76113660%2D4b03%2D4a9d%2D836b%2D61714b93cddd)
      - [Oregon.Data.Use.Case.Proposal.Template.pdf](https://stateoforegon.sharepoint.com/:b:/r/sites/DataGovernanceResourceLibrary/Shared%20Documents/General/Data%20Sharing/Oregon%20Data%20Use%20Case%20Proposal%20Template.pdf?csf=1&web=1&e=bJmBdX)
-        - Critical template necessary to move to the next step; documents all information needed to complete your use case proposal
-     - <a href= "https://stateoforegon.sharepoint.com/sites/OregonDataSharingEMOU/SitePages/Home.aspx?e=4%3Ab9994ef32f26470b91db3e9ca11d588a&web=1&sharingv2=true&fromShare=true&clickparams=eyAiWC1BcHBOYW1lIiA6ICJNaWNyb3NvZnQgT3V0bG9vayIsICJYLUFwcFZlcnNpb24iIDogIjE2LjAuMTg5MjUuMjAyMTYiLCAiT1MiIDogIldpbmRvd3MiIH0%3D&CID=91b0d8a1-703a-a000-9023-141ce3fe29a4&cidOR=SPO"> Enterprise Memorandum of Understanding (EMOU) Internal SharePoint Site</a> Note: This website is accessible only to internal state agency employees.
-2. State Agency Resources
-     - [Research.Study.Planning.and.Development.SOP.DRAFT.pdf](https://github.com/user-attachments/files/22280689/Research.Study.Planning.and.Development.SOP.DRAFT.pdf) - OLDC Research Project Planning Guide
-        - General project planning resource 
-     - <a href= "https://www.oregon.gov/odot/programs/pages/research.aspx">ODOT Research Team Research Cycle</a>
-        - Set of resources to help understand how research is conducted 
-4. External Resources 
-     - <a href="https://aisp.upenn.edu/resource-article/four-questions-to-guide-decision-making-for-data-sharing-and-integration/">AISP Four Question Framework</a> 
-        - Fundamental data management and governance approach 
-     - <a href="https://chhsdata.github.io/dataplaybook/define/">CalHHS Data Playbook, “Define” </a> 
-        - Approach to identifying and articulating problems 
-     -  <a href="https://sites.google.com/georgetown.edu/data-labs-playbook/define-the-data-challenge?authuser=0">Data Labs Playbook: Define the Data Challenge"</a>
-        - Tips and trick for defining your data problems 
-     - <a href="http://www.datasciencepublicpolicy.org/our-work/tools-guides/data-science-project-scoping-guide/"> Data Science and Public Policy Scoping Guide</a>
-        - Defining and analyzing use cases for public-facing projects 
-     - <a href="https://beeckcenter.georgetown.edu/foundations-of-a-successful-data-project-thoughtfully-analyzing-data-challenges/">Thoughtfully Analyzing Data Challenges</a>
-        - Blog about defining data problems and needs 
-     -  <a href="https://stateoforegon.sharepoint.com/:b:/r/sites/DAS-EIS-DGT/Shared Documents/eMOU Project Planning/Pilot Scoping and Execution/Templates/1 - Define Use Case/Problem Scoping Activity (Template).pdf?csf=1&web=1&e=DP6Jph">Data Labs Problem Scoping Activity Template</a>
-        - Template for scoping and articulating data problems 
-     - <a href="https://stateoforegon.sharepoint.com/:w:/r/sites/DAS-EIS-DGT/Shared Documents/eMOU Project Planning/Pilot Scoping and Execution/Templates/1 - Define Use Case/Stakeholder Mapping Worksheet.docx?d=w4c40e811bc4f4a23a95bba2fbc7024eb&csf=1&web=1&e=FrPDB9">Data Labs Stakeholder Landscape Worksheet</a>
-        - Stakeholder environment tool 
-     -  <a href="https://stateoforegon.sharepoint.com/:w:/r/sites/DAS-EIS-DGT/Shared Documents/eMOU Project Planning/Pilot Scoping and Execution/Templates/1 - Define Use Case/Stakeholder Mapping Worksheet.docx?d=w4c40e811bc4f4a23a95bba2fbc7024eb&csf=1&web=1&e=37M7Wq">Data Labs Stakeholder Mapping Worksheet</a>
-        - Stakeholder mapping and identification tool 
-
+     - Critical template necessary to move to the next step; documents all information needed to complete your use case proposal
+     - <a href= "https://stateoforegon.sharepoint.com/sites/OregonDataSharingEMOU/SitePages/Home.aspx?e=4%3Ab9994ef32f26470b91db3e9ca11d588a&web=1&sharingv2=true&fromShare=true&clickparams=eyAiWC1BcHBOYW1lIiA6ICJNaWNyb3NvZnQgT3V0bG9vayIsICJYLUFwcFZlcnNpb24iIDogIjE2LjAuMTg5MjUuMjAyMTYiLCAiT1MiIDogIldpbmRvd3MiIH0%3D&CID=91b0d8a1-703a-a000-9023-141ce3fe29a4&cidOR=SPO"> Enterprise Memorandum of Understanding (EMOU) Internal SharePoint Site</a>
+       
 #### Deliverables- at the end of the step an agency should have completed the following:   
 1. Drafted data use case outline.
 
