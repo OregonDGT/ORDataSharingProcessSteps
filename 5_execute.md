@@ -18,7 +18,7 @@ ___
 
 ### Process & Artifacts
 > [!NOTE]
-> Agencies execute use case according to the proposal.
+> Agencies execute use case according to the data sharing use case proposal.
 > 
 
 #### Dependencies/Assumptions
@@ -29,18 +29,10 @@ ___
 2. Develop a plan for implementation 
 3. Notify all stakeholders of intent to execute and timelines for execution
 
-#### Templates/Resources
-1. DGT Resources
-     - [Execute Use Case Recommendations.pdf](https://github.com/user-attachments/files/22280887/Execute.Use.Case.Recommendations.pdf)
-       - Detailed guide for how to execute the use case for a variety of roles
-     - State Agency Resources
-       - <a href="https://www.oregon.gov/ode/StudentSuccess/Documents/SNHIResearchBrief1.pdf">ODE Houseless Student Data Briefs</a>, <a href= "https://www.oregon.gov/ode/StudentSuccess/Documents/SNHIResearchBrief2.pdf">Understanding Student Houselessness Data Brief</a>
-         - Examples of use case write-ups and report-outs
-     - External Resources
-          - <a href="https://beeckcenter.georgetown.edu/foundation-of-a-successful-data-project-agile-rapid-prototyping/">Data Labs Agile Rapid Prototyping</a>
-             - Process for quickly determining viability of prototype solutions or approaches for use cases
+#### Templates/Resources (Internal)
+1. [Phase 5 Materials](https://stateoforegon.sharepoint.com/sites/DataGovernanceResourceLibrary/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FDataGovernanceResourceLibrary%2FShared%20Documents%2FGeneral%2FData%20Sharing%2FData%20Sharing%20Training%20Resources%20and%20Templates%2FPhase%205&viewid=76113660%2D4b03%2D4a9d%2D836b%2D61714b93cddd)
 
 #### Deliverables- at the end of the step an agency should have completed the following:
-1. 	Implemented use case outputs.
+1. 	Implemented data sharing use case outputs.
    
 ___
