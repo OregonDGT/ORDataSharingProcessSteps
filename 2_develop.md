@@ -28,16 +28,8 @@ ___
 1. Fill out the Data Use Case Proposal Template
 2. Hold sessions to refine the use case from step 1 into a workable Data Use Case Proposal; goal is to have something that is technically executable
  
-#### Templates/Resources
-1. DGT Resources
-     - [Oregon.Data.Use.Case.Proposal.Template.pdf](https://stateoforegon.sharepoint.com/:b:/r/sites/DataGovernanceResourceLibrary/Shared%20Documents/General/Data%20Sharing/Oregon%20Data%20Use%20Case%20Proposal%20Template.pdf?csf=1&web=1&e=bJmBdX)
-        - Critical template necessary to move to the next step; documents all information needed to complete your use case proposal
-     - <a href= "https://stateoforegon.sharepoint.com/sites/OregonDataSharingEMOU/SitePages/Home.aspx?e=4%3Ab9994ef32f26470b91db3e9ca11d588a&web=1&sharingv2=true&fromShare=true&clickparams=eyAiWC1BcHBOYW1lIiA6ICJNaWNyb3NvZnQgT3V0bG9vayIsICJYLUFwcFZlcnNpb24iIDogIjE2LjAuMTg5MjUuMjAyMTYiLCAiT1MiIDogIldpbmRvd3MiIH0%3D&CID=91b0d8a1-703a-a000-9023-141ce3fe29a4&cidOR=SPO"> Enterprise Memorandum of Understanding (EMOU) Internal SharePoint Site</a> Note: This website is accessible only to internal state agency employees.
-2. External Resources
-     - [Cal.HHS.Business.Use.Case.Proposal.pdf](https://github.com/user-attachments/files/22222552/Cal.HHS.Business.Use.Case.Proposal.pdf) and [Cal HHS Business Use Case Proposal Instructions.pdf](https://github.com/user-attachments/files/22033750/Cal.HHS.Business.Use.Case.Proposal.Instructions.pdf)
-        - Another organization’s approach to documenting use case proposals
-     - [Data Audit Worksheet.xlsx](https://github.com/user-attachments/files/22033757/Data.Audit.Worksheet.xlsx)
-     - [Data Labs Field-Level Mapping Template.xlsx](https://github.com/user-attachments/files/22033772/Data.Labs.Field-Level.Mapping.Template.xlsx)    
+#### Templates/Resources (Internal)
+1. [Phase 2 Materials](https://stateoforegon.sharepoint.com/sites/DataGovernanceResourceLibrary/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FDataGovernanceResourceLibrary%2FShared%20Documents%2FGeneral%2FData%20Sharing%2FData%20Sharing%20Training%20Resources%20and%20Templates%2FPhase%202&viewid=76113660%2D4b03%2D4a9d%2D836b%2D61714b93cddd)
 
 #### Deliverables- at the end of the step an agency should have completed the following:
 1. Finalized Draft Data Use Case Proposal.
