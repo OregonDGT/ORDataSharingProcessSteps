@@ -33,39 +33,8 @@ ___
 3. Identify internal SMEs for potential use cases, including data users, program leaders, and key partners
 4. Fill out data inventory template; engage your Lead Data Steward to assist
 
-#### Templates/Resources 
-##### DGT Resources (Internal)
-1. [Program and Data Inventory Template.xlsx](https://github.com/user-attachments/files/22031498/Program.and.Data.Inventory.Template.xlsx)
-     - Excel book for tracking programs and datasets 
-2. [Oregon Agency Data Inventory Template.xlsx](https://github.com/user-attachments/files/22031541/Oregon.Agency.Data.Inventory.Template.xlsx)
-3. <a href= "https://data.oregon.gov/Administrative/Agency-Data-Coordinator-s-Handbook/p6rj-4fdp/about_data">Data Coordinator Handbook - Incl. Inventory Instructions 
-    - Instructions for completing inventories</a> 
-4. [Data Governance Maturity Model.xlsx](https://github.com/user-attachments/files/22031621/Data.Governance.Maturity.Model.xlsx)
-    - Model for evaluating data governance maturity 
-
-##### State Agency Resources
-1.  Oregon DOT Strategic Data Business Plan / Data Value Mapping Tool - [Data Value Mapping Tool Guidance (final).pdf](https://github.com/user-attachments/files/22281353/Data.Value.Mapping.Tool.Guidance.final.pdf)
-     - Used for developing shared understanding of how data is used and moves through your organization
-2. Sample Agency Data Governance Committee Charter
-    - [Information Governance Council Charter_Signed_anonymous.pdf](https://github.com/user-attachments/files/22031645/Information.Governance.Council.Charter_Signed_anonymous.pdf)
-
-##### External Resources
-1. [High Value Data Asset Inventory_2024 (1).xlsx](https://github.com/user-attachments/files/22031945/High.Value.Data.Asset.Inventory_2024.1.xlsx)
-2. <a href="https://beeckcenter.georgetown.edu/wp-content/uploads/2020/01/Data-Sharing-Summary.pdf">Beeck Center - Sharing Data for Social Impact Guidebook for Establishing Responsible Governance</a>
-     - How-to guide for establishing governance practices for your data 
-3. Data Quality Guides for Govt
-     - Files containing guides and resources to help determine data quality (specific to government)
-          - [Capture_Plan.xlsx](https://github.com/user-attachments/files/22031993/Capture_Plan.xlsx)
-          - [Data_Model.xlsx](https://github.com/user-attachments/files/22032018/Data_Model.xlsx)
-          - [dataqualityguideforgovernments.pdf](https://github.com/user-attachments/files/22032023/dataqualityguideforgovernments.pdf)
-          - [Goal_Statement.xlsx](https://github.com/user-attachments/files/22032026/Goal_Statement.xlsx)
-          - [Infrastructure.xlsx](https://github.com/user-attachments/files/22032028/Infrastructure.xlsx)
-          - [Inventory.xlsx](https://github.com/user-attachments/files/22032029/Inventory.xlsx)
-          - [Life_Cycle.xlsx](https://github.com/user-attachments/files/22032030/Life_Cycle.xlsx)
-          - [Reference_Data.xlsx](https://github.com/user-attachments/files/22032031/Reference_Data.xlsx)
-          - [Standards.xlsx](https://github.com/user-attachments/files/22032033/Standards.xlsx)
-          - [Tool_Selection.xlsx](https://github.com/user-attachments/files/22032035/Tool_Selection.xlsx)
-          - [Working_Group.xlsx](https://github.com/user-attachments/files/22032037/Working_Group.xlsx)
+#### Templates/Resources (Internal)
+1. [Phase 0 Reference Materials](https://stateoforegon.sharepoint.com/sites/DataGovernanceResourceLibrary/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FDataGovernanceResourceLibrary%2FShared%20Documents%2FGeneral%2FData%20Sharing%2FData%20Sharing%20Training%20Resources%20and%20Templates%2FPhase%200&viewid=76113660%2D4b03%2D4a9d%2D836b%2D61714b93cddd)
 
 #### Deliverables- at the end of the step an agency should have completed the following:   
 1. Completed data inventory template.
