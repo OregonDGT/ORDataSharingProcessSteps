@@ -29,9 +29,8 @@ ___
 1. Determine if Use Case is appropriate and the data sharing request is one the agency can approve support
 2. Make a formal decision and submit that decision in writing to requesting agency (approve, dispute, or deny)
 
-#### Templates/Resources
-1. DGT Resources
-     - [Draft.Dispute.Resolution.Recommendations.pdf](https://github.com/user-attachments/files/22280837/Draft.Dispute.Resolution.Recommendations.pdf)
+#### Templates/Resources (Internal)
+1. [Phase 4 Materials](https://stateoforegon.sharepoint.com/sites/DataGovernanceResourceLibrary/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FDataGovernanceResourceLibrary%2FShared%20Documents%2FGeneral%2FData%20Sharing%2FData%20Sharing%20Training%20Resources%20and%20Templates%2FPhase%204&viewid=76113660%2D4b03%2D4a9d%2D836b%2D61714b93cddd)
 
 #### Deliverables- at the end of the step an agency should have completed the following:
 1. Approved or revised use case document
