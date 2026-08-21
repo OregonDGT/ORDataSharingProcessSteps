@@ -25,7 +25,7 @@ ___
 2. Process for “dispute” or conflict resolution/discussion and areas to engage Oregon Data Sharing Committee are documented.
 3. RACI is clear on the role of CDO, DOJ, and other external parties in assisting agencies with navigating legal questions, privacy questions, etc.
 
-#### Core Activities for Step/Phase 0
+#### Core Activities for Step/Phase 4
 1. Determine if Use Case is appropriate and the data sharing request is one the agency can approve support
 2. Make a formal decision and submit that decision in writing to requesting agency (approve, dispute, or deny)
 
